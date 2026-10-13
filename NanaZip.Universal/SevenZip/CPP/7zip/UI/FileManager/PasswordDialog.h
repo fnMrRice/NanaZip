@@ -20,6 +20,10 @@ class CPasswordDialog: public NWindows::NControl::CModalDialog
 public:
   UString Password;
   bool ShowPassword;
+// **************** NanaZip Modification Start ****************
+  bool EnableRememberPassword = false;
+  bool RememberPasswords = false;
+// **************** NanaZip Modification End ****************
   
   CPasswordDialog(): ShowPassword(false) {}
   INT_PTR Create(HWND parentWindow = NULL) { return CModalDialog::Create(IDD_PASSWORD, parentWindow); }

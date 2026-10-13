@@ -75,6 +75,7 @@
     <ClInclude Include="SevenZip\CPP\7zip\UI\Common\ExtractMode.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\Common\HashCalc.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\Common\IFileExtractCallback.h" />
+    <ClInclude Include="SevenZip\CPP\7zip\UI\Common\PasswordHistory.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\Common\LoadCodecs.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\Common\OpenArchive.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\Common\Property.h" />
@@ -97,6 +98,7 @@
     <ClInclude Include="SevenZip\CPP\7zip\UI\FileManager\OverwriteDialog.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\FileManager\OverwriteDialogRes.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\FileManager\PasswordDialog.h" />
+    <ClInclude Include="SevenZip\CPP\7zip\UI\FileManager\PasswordRetry.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\FileManager\PasswordDialogRes.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\FileManager\ProgressDialog2.h" />
     <ClInclude Include="SevenZip\CPP\7zip\UI\FileManager\ProgressDialog2Res.h" />

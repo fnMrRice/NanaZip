@@ -1,4 +1,4 @@
-﻿// ExtractCallback.cpp
+// ExtractCallback.cpp
 
 #include "StdAfx.h"
 
@@ -30,6 +30,9 @@
 #include "OverwriteDialog.h"
 #ifndef Z7_NO_CRYPTO
 #include "PasswordDialog.h"
+// **************** NanaZip Modification Start ****************
+#include "PasswordRetry.h"
+// **************** NanaZip Modification End ****************
 #endif
 #include "PropertyName.h"
 
@@ -377,6 +380,18 @@ Z7_COM7F_IMF(CExtractCallbackImp::SetOperationResult(Int32 opRes, Int32 encrypte
   switch (opRes)
   {
     case NArchive::NExtract::NOperationResult::kOK:
+// **************** NanaZip Modification Start ****************
+      #ifndef Z7_NO_CRYPTO
+      if (encrypted && PasswordIsDefined && PasswordWasAsked
+          && !PasswordArchiveStarted)
+      {
+        NanaZipPasswordHistory::Store Store;
+        HRESULT Result = Store.Remember(Password);
+        if (FAILED(Result))
+          MessageError(NError::MyFormatMessage(Result));
+      }
+      #endif
+// **************** NanaZip Modification End ****************
       break;
     default:
     {
@@ -673,6 +688,15 @@ HRESULT CExtractCallbackImp::ExtractResult(HRESULT result)
 
 #ifndef Z7_NO_CRYPTO
 
+// **************** NanaZip Modification Start ****************
+HRESULT CExtractCallbackImp::OpenArchive(CArchiveLink& Link,
+    COpenOptions& Options, IOpenCallbackUI* Callback)
+{
+  NanaZipPasswordHistory::Store Store;
+  return OpenArchiveWithPasswordHistory(*this, Link, Options, Callback, Store);
+}
+// **************** NanaZip Modification End ****************
+
 HRESULT CExtractCallbackImp::SetPassword(const UString &password)
 {
   PasswordIsDefined = true;
@@ -686,6 +710,9 @@ Z7_COM7F_IMF(CExtractCallbackImp::CryptoGetTextPassword(BSTR *password))
   if (!PasswordIsDefined)
   {
     CPasswordDialog dialog;
+// **************** NanaZip Modification Start ****************
+    dialog.EnableRememberPassword = true;
+// **************** NanaZip Modification End ****************
     #ifndef Z7_SFX
     const bool showPassword = NExtract::Read_ShowPassword();
     dialog.ShowPassword = showPassword;

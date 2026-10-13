@@ -1365,4 +1365,7 @@
   <data name="Resource12201" xml:space="preserve">
     <value>打开 Windows 设置应用将文件与 Nanazip-PM 关联</value>
   </data>
+  <data name="Resource3808" xml:space="preserve">
+    <value>记住密码(&amp;R)</value>
+  </data>
 </root>

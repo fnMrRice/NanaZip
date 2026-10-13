@@ -25,4 +25,7 @@
 // **************** NanaZip Modification End ****************
 
 #define IDX_PASSWORD_SHOW           3803
+// **************** NanaZip Modification Start ****************
+#define IDX_PASSWORD_REMEMBER       3808
+// **************** NanaZip Modification End ****************
 #define IDG_PASSWORD                3807

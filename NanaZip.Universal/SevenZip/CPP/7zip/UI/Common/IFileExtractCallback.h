@@ -90,7 +90,18 @@ is implemented by
 // IExtractCallbackUI - is non-COM interface
 // IFolderArchiveExtractCallback - is COM interface
 // Z7_IFACE_DECL_PURE_(IExtractCallbackUI, IFolderArchiveExtractCallback)
-Z7_IFACE_DECL_PURE(IExtractCallbackUI)
+// **************** NanaZip Modification Start ****************
+// Z7_IFACE_DECL_PURE(IExtractCallbackUI)
+DECLARE_INTERFACE(IExtractCallbackUI)
+{
+  Z7_IFACE_PURE(IExtractCallbackUI)
+  virtual HRESULT OpenArchive(CArchiveLink& Link, COpenOptions& Options,
+      IOpenCallbackUI* Callback)
+  {
+    return Link.Open_Strict(Options, Callback);
+  }
+};
+// **************** NanaZip Modification End ****************
 
 
 

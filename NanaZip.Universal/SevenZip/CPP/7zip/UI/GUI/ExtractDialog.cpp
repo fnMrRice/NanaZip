@@ -21,6 +21,10 @@
 #include "../FileManager/resourceGui.h"
 
 #include "ExtractDialog.h"
+// **************** NanaZip Modification Start ****************
+#include "../Common/PasswordHistory.h"
+#include "../../../Windows/ErrorMsg.h"
+// **************** NanaZip Modification End ****************
 #include "ExtractDialogRes.h"
 #include "ExtractRes.h"
 
@@ -86,7 +90,10 @@ static const UInt32 kLangIDs[] =
   IDX_EXTRACT_OPEN_FOLDER,
   // **************** NanaZip Modification End ****************
   IDG_PASSWORD,
-  IDX_PASSWORD_SHOW
+  IDX_PASSWORD_SHOW,
+// **************** NanaZip Modification Start ****************
+  IDX_PASSWORD_REMEMBER
+// **************** NanaZip Modification End ****************
 };
 #endif
 
@@ -159,6 +166,11 @@ bool CExtractDialog::OnInit()
   #endif
   
   #ifndef Z7_SFX
+// **************** NanaZip Modification Start ****************
+  NanaZipPasswordHistory::Store Store;
+  RememberPasswords = Store.IsEnabled();
+  CheckButton(IDX_PASSWORD_REMEMBER, RememberPasswords);
+// **************** NanaZip Modification End ****************
   _passwordControl.Attach(GetItem(IDE_EXTRACT_PASSWORD));
   _passwordControl.SetText(Password);
   _passwordControl.SetPasswordChar(TEXT('*'));
@@ -332,6 +344,17 @@ void CExtractDialog::OnOK()
   // _filesMode = (NExtractionDialog::NFilesMode::EEnum)GetFilesMode();
 
   _passwordControl.GetText(Password);
+// **************** NanaZip Modification Start ****************
+  NanaZipPasswordHistory::Store Store;
+  bool Enabled = IsButtonCheckedBool(IDX_PASSWORD_REMEMBER);
+  HRESULT Result = Enabled == RememberPasswords ? S_OK : Store.SetEnabled(Enabled);
+  if (FAILED(Result))
+  {
+    ::MessageBoxW(*this, NWindows::NError::MyFormatMessage(Result),
+        L"Nanazip-PM", MB_OK | MB_ICONERROR);
+    return;
+  }
+// **************** NanaZip Modification End ****************
 
   #endif
 

@@ -94,6 +94,7 @@ public:
   CBoolPair ElimDup;
   // **************** NanaZip Modification Start ****************
   CBoolPair OpenFolder;
+  bool RememberPasswords = false;
   // **************** NanaZip Modification End ****************
 
   INT_PTR Create(HWND aWndParent = NULL)

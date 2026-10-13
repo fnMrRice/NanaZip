@@ -516,7 +516,10 @@ HRESULT Extract(
     op.stream = NULL;
     op.filePath = arcPath;
 
-    HRESULT result = arcLink.Open_Strict(op, openCallback);
+// **************** NanaZip Modification Start ****************
+    // HRESULT result = arcLink.Open_Strict(op, openCallback);
+    HRESULT result = extractCallback->OpenArchive(arcLink, op, openCallback);
+// **************** NanaZip Modification End ****************
 
     if (result == E_ABORT)
       return result;

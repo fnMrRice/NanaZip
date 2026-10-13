@@ -1369,4 +1369,7 @@ Are you sure you want to split archive into such volumes?</value>
     <value>Open Windows Settings app to associate files with Nanazip-PM</value>
   </data>
 
+  <data name="Resource3808" xml:space="preserve">
+    <value>&amp;Remember passwords</value>
+  </data>
 </root>

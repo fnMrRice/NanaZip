@@ -1359,4 +1359,7 @@
   <data name="Resource7714" xml:space="preserve">
     <value>目錄連接點</value>
   </data>
+  <data name="Resource3808" xml:space="preserve">
+    <value>記住密碼(&amp;R)</value>
+  </data>
 </root>

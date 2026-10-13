@@ -244,6 +244,11 @@ public:
 #ifndef Z7_NO_CRYPTO
   bool PasswordIsDefined;
   bool PasswordWasAsked;
+// **************** NanaZip Modification Start ****************
+  bool PasswordArchiveStarted = false;
+  HRESULT OpenArchive(CArchiveLink& Link, COpenOptions& Options,
+      IOpenCallbackUI* Callback) Z7_override;
+// **************** NanaZip Modification End ****************
 #endif
 
 private:
