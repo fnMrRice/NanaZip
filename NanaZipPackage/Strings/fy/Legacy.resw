@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Frisian</value>
@@ -256,7 +256,7 @@
     <value>&amp;Ynhâld...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip it hoe en het...</value>
+    <value>Nanazip-PM it hoe en het...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Paad</value>
@@ -409,10 +409,10 @@
     <value>Systeem</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Ferbyn NanaZip Mei:</value>
+    <value>Ferbyn Nanazip-PM Mei:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Yntegraasje fan NanaZip yn ferbânmenu</value>
+    <value>Yntegraasje fan Nanazip-PM yn ferbânmenu</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Ferbânmenu yn trepfoarm</value>
@@ -499,10 +499,10 @@
     <value>Brûk &amp;grut ûnthâld siden</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip it hoe en het</value>
+    <value>Nanazip-PM it hoe en het</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip is fergees. Mar, jo kinne de ûntwikkeling stypje troch jo te registrearjen.</value>
+    <value>Nanazip-PM is fergees. Mar, jo kinne de ûntwikkeling stypje troch jo te registrearjen.</value>
   </data>
   <data name="Resource3001" xml:space="preserve">
     <value>Der binne gjin flaters</value>

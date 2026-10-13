@@ -8,11 +8,11 @@
     <MileProjectManifestFile>NanaZip.Universal.Console.manifest</MileProjectManifestFile>
     <MileProjectUseProjectProperties>true</MileProjectUseProjectProperties>
     <MileProjectCompanyName>M2-Team</MileProjectCompanyName>
-    <MileProjectFileDescription>NanaZip Command Line Interface (Console)</MileProjectFileDescription>
-    <MileProjectInternalName>NanaZip.Universal.Console</MileProjectInternalName>
+    <MileProjectFileDescription>Nanazip-PM Command Line Interface (Console)</MileProjectFileDescription>
+    <MileProjectInternalName>Nanazip-PM.Console</MileProjectInternalName>
     <MileProjectLegalCopyright>© M2-Team and Contributors. All rights reserved.</MileProjectLegalCopyright>
-    <MileProjectOriginalFilename>NanaZip.Universal.Console.exe</MileProjectOriginalFilename>
-    <MileProjectProductName>NanaZip</MileProjectProductName>
+    <MileProjectOriginalFilename>Nanazip-PM.Console.exe</MileProjectOriginalFilename>
+    <MileProjectProductName>Nanazip-PM</MileProjectProductName>
     <MileWindowsHelpersNoCppWinRTHelpers>true</MileWindowsHelpersNoCppWinRTHelpers>
   </PropertyGroup>
   <Import Project="..\NanaZip.Project\NanaZip.Project.props" />
@@ -23,6 +23,9 @@
   <Import Condition="'$(Platform)' == 'x64'" Project="$(VCTargetsPath)\BuildCustomizations\masm.props" />
   <Import Project="..\NanaZip.Project\NanaZip.Project.Runtime.props" />
   <Import Project="..\K7Base\K7Base.props" />
+  <PropertyGroup>
+    <TargetName>Nanazip-PM.Console</TargetName>
+  </PropertyGroup>
   <ItemDefinitionGroup>
     <ClCompile>
       <AdditionalOptions>%(AdditionalOptions) /Wv:18</AdditionalOptions>

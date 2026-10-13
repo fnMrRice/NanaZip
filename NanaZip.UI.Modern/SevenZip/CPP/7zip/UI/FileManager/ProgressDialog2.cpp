@@ -1086,7 +1086,7 @@ bool CProgressDialog::ModernExternalCloseMessage()
             Title = std::wstring(this->_title.Ptr(), this->_title.Len());
             if (Title.empty())
             {
-                Title = L"NanaZip";
+                Title = L"Nanazip-PM";
             }
         }
 
@@ -1295,7 +1295,7 @@ INT_PTR CProgressDialog::Create(const UString &title, NWindows::CThread &thread,
   }
   thread.Wait_Close();
   if (!MessagesDisplayed)
-    MessageBoxW(wndParent, L"Progress Error", L"NanaZip", MB_ICONERROR);
+    MessageBoxW(wndParent, L"Progress Error", L"Nanazip-PM", MB_ICONERROR);
   return res;
 }
 
@@ -1331,7 +1331,7 @@ bool CProgressDialog::OnExternalCloseMessage()
   {
     MessagesDisplayed = true;
     if (fm.ErrorMessage.Title.IsEmpty())
-      fm.ErrorMessage.Title = "NanaZip";
+      fm.ErrorMessage.Title = "Nanazip-PM";
     MessageBoxW(*this, fm.ErrorMessage.Message, fm.ErrorMessage.Title, MB_ICONERROR);
   }
   else if (!thereAreMessages)
@@ -1341,7 +1341,7 @@ bool CProgressDialog::OnExternalCloseMessage()
     if (!fm.OkMessage.Message.IsEmpty())
     {
       if (fm.OkMessage.Title.IsEmpty())
-        fm.OkMessage.Title = "NanaZip";
+        fm.OkMessage.Title = "Nanazip-PM";
       MessageBoxW(*this, fm.OkMessage.Message, fm.OkMessage.Title, MB_OK);
     }
   }

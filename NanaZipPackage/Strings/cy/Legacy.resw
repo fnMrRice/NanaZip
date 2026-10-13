@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Welsh</value>
@@ -256,7 +256,7 @@
     <value>&amp;Cynnwys...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Manylion NanaZip...</value>
+    <value>Manylion Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Llwybr</value>
@@ -382,10 +382,10 @@
     <value>System</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Cysylltu NanaZip gyda:</value>
+    <value>Cysylltu Nanazip-PM gyda:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Cyfuno NanaZip mewn i dewislen cyd-destun y cribyn</value>
+    <value>Cyfuno Nanazip-PM mewn i dewislen cyd-destun y cribyn</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Dewislen cyd-destun wedi'i rhaeadru</value>
@@ -472,10 +472,10 @@
     <value>Defnyddiwch tudalenau cof &amp;mawr</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Manylion NanaZip</value>
+    <value>Manylion Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>Mae NanaZip yn meddalwedd am ddim. Ond, gallwch cefnogi yNanaZip</value>
+    <value>Mae Nanazip-PM yn meddalwedd am ddim. Ond, gallwch cefnogi yNanazip-PM</value>
   </data>
   <data name="Resource3001" xml:space="preserve">
     <value>Mae na ddim wallau</value>

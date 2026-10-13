@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Português Brasileiro</value>
@@ -271,7 +271,7 @@
     <value>&amp;Conteúdo...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Sobre o NanaZip...</value>
+    <value>Sobre o Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Caminho</value>
@@ -553,13 +553,13 @@
     <value>Sistema</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Associar o NanaZip com:</value>
+    <value>Associar o Nanazip-PM com:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Todos os usuários</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integrar o NanaZip ao menu de contexto do shell</value>
+    <value>Integrar o Nanazip-PM ao menu de contexto do shell</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Menu de contexto em cascata</value>
@@ -670,10 +670,10 @@
     <value>Use Hashes Minúsculos</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Sobre o NanaZip</value>
+    <value>Sobre o Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>O NanaZip é um software grátis</value>
+    <value>O Nanazip-PM é um software grátis</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>O sistema não pôde alocar a quantia requerida de memória</value>
@@ -1369,7 +1369,7 @@ Você tem certeza que você quer dividir o arquivo compactado em tais volumes?</
     <value>Integração</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Abrir a Configurações do Windows para associar arquivos ao NanaZip</value>
+    <value>Abrir a Configurações do Windows para associar arquivos ao Nanazip-PM</value>
   </data>
 
 </root>

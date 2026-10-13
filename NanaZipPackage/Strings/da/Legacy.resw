@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Danish</value>
@@ -268,7 +268,7 @@
     <value>&amp;Indhold...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Om NanaZip...</value>
+    <value>Om Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Sti</value>
@@ -541,7 +541,7 @@
     <value>System</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Knyt NanaZip til:</value>
+    <value>Knyt Nanazip-PM til:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Alle brugere</value>
@@ -640,10 +640,10 @@
     <value>Brug &amp;store hukommelsessider</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Om NanaZip</value>
+    <value>Om Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip er fri software</value>
+    <value>Nanazip-PM er fri software</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Systemet kan ikke tildele den nødvendige mængde hukommelse</value>

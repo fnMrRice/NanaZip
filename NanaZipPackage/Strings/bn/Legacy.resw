@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Bangla</value>
@@ -118,7 +118,7 @@
     <value>&amp;উন্মুক্ত করা</value>
   </data>
   <data name="Resource541" xml:space="preserve">
-    <value>NanaZip-এ উন্মুক্ত করা</value>
+    <value>Nanazip-PM-এ উন্মুক্ত করা</value>
   </data>
   <data name="Resource542" xml:space="preserve">
     <value>বাহিরে উন্মুক্ত করা</value>
@@ -166,10 +166,10 @@
     <value>বাহির</value>
   </data>
   <data name="Resource590" xml:space="preserve">
-    <value>NanaZip-এ উন্মুক্ত করা *</value>
+    <value>Nanazip-PM-এ উন্মুক্ত করা *</value>
   </data>
   <data name="Resource591" xml:space="preserve">
-    <value>NanaZip-এ উন্মুক্ত করা #</value>
+    <value>Nanazip-PM-এ উন্মুক্ত করা #</value>
   </data>
   <data name="Resource600" xml:space="preserve">
     <value>সব নির্বাচন</value>
@@ -256,7 +256,7 @@
     <value>&amp;সাহায্য...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip সর্ম্পকে...</value>
+    <value>Nanazip-PM সর্ম্পকে...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>অবস্থান</value>
@@ -382,10 +382,10 @@
     <value>বর্তমান অবস্থা</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip-এর সাথে সম্পর্কিত :</value>
+    <value>Nanazip-PM-এর সাথে সম্পর্কিত :</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>সাহায্যকারী তালিকায় NanaZip সংযোজন</value>
+    <value>সাহায্যকারী তালিকায় Nanazip-PM সংযোজন</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>সাহায্যকারী তালিকায় একের ভিতর সব গুটিয়ে ফেলা</value>
@@ -472,10 +472,10 @@
     <value>বেশি স্মৃতির ব্যবহার</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip সম্পর্কে</value>
+    <value>Nanazip-PM সম্পর্কে</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip একটি মুক্ত প্রোগ্রাম কিন্তু এটি NanaZip এর কতৃপক্ষের কাছে নিবন্ধনের মাধ্যমে আপনি উন্নত সেবা পেতে পারেন</value>
+    <value>Nanazip-PM একটি মুক্ত প্রোগ্রাম কিন্তু এটি Nanazip-PM এর কতৃপক্ষের কাছে নিবন্ধনের মাধ্যমে আপনি উন্নত সেবা পেতে পারেন</value>
   </data>
   <data name="Resource3001" xml:space="preserve">
     <value>কোন ত্রুটি নেই</value>

@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Uyghur</value>
@@ -256,7 +256,7 @@
     <value>مۇندەرىجە(&amp;C)…</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip ھەققىدە</value>
+    <value>Nanazip-PM ھەققىدە</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>يول</value>
@@ -433,10 +433,10 @@
     <value>سىستېما</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip بىلەن باغلانغان ھۆججەت تىپى:</value>
+    <value>Nanazip-PM بىلەن باغلانغان ھۆججەت تىپى:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip نى ئوڭ كۇنۇپكا تىزىملىكىگە قوش</value>
+    <value>Nanazip-PM نى ئوڭ كۇنۇپكا تىزىملىكىگە قوش</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>ئوڭ تىزىملىكنى دەستىلە</value>
@@ -523,10 +523,10 @@
     <value>چوڭ ئەسلەك بېتى ئىشلەت(&amp;L)</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>‎NanaZip‏ ھەققىدە</value>
+    <value>‎Nanazip-PM‏ ھەققىدە</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>‏NanaZip  ‏ھەقسىز دېتال. ئەمما تىزىملىتىش ئارقىلىق ئۇنى ئېچىشنى قوللىسىڭىز بولىدۇ.</value>
+    <value>‏Nanazip-PM  ‏ھەقسىز دېتال. ئەمما تىزىملىتىش ئارقىلىق ئۇنى ئېچىشنى قوللىسىڭىز بولىدۇ.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>سىستېما لازىملىق ئەسلەكنى تەقسىملىيەلمەيدۇ</value>

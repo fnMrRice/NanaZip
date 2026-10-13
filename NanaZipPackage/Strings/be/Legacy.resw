@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Belarusian</value>
@@ -457,10 +457,10 @@
     <value>Сістэма</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Асацыяваць NanaZip з файламі:</value>
+    <value>Асацыяваць Nanazip-PM з файламі:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Убудаваць NanaZip у кантэкстнае меню абалонкі</value>
+    <value>Убудаваць Nanazip-PM у кантэкстнае меню абалонкі</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Каскаднае кантэкстнае меню</value>
@@ -550,10 +550,10 @@
     <value>Выкарыстаць вялікія старонкі памяці</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Аб праграме NanaZip</value>
+    <value>Аб праграме Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip з'яўляецца вольна распаўсюджваемай праграмай. Аднак калі вы жадаеце падтрымаць распрацоўку NanaZip, вы можаце зарэгістраваць праграму.Праграма перакладена Drive DRKA.Мая электронная скрыня: drka2003@mail.ru.Пераклад зроблен у верасні 2007 года.</value>
+    <value>Nanazip-PM з'яўляецца вольна распаўсюджваемай праграмай. Аднак калі вы жадаеце падтрымаць распрацоўку Nanazip-PM, вы можаце зарэгістраваць праграму.Праграма перакладена Drive DRKA.Мая электронная скрыня: drka2003@mail.ru.Пераклад зроблен у верасні 2007 года.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Нядосыць вольнай памяці</value>

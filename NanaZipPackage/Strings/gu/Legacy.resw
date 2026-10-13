@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Gujarati, Indian, હિન્દુસ્તાન</value>
@@ -259,7 +259,7 @@
     <value>&amp;સામગ્રી...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip ના વિશેમાં...</value>
+    <value>Nanazip-PM ના વિશેમાં...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>માર્ગ</value>

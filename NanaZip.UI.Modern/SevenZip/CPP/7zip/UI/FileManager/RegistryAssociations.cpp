@@ -24,7 +24,7 @@ static const TCHAR * const kDefaultIconKeyName = TEXT("DefaultIcon");
 static const TCHAR * const kShellKeyName = TEXT("shell");
 static const TCHAR * const kOpenKeyName = TEXT("open");
 static const TCHAR * const kCommandKeyName = TEXT("command");
-static const char * const k7zipPrefix = "NanaZip.";
+static const char * const k7zipPrefix = "Nanazip-PM.";
 
 static CSysString GetExtProgramKeyName(const CSysString &ext)
 {
@@ -96,7 +96,7 @@ LONG DeleteShellExtensionInfo(HKEY hkey, const CSysString &ext)
   CKey rootKey;
   rootKey.Attach(hkey);
   LONG res = rootKey.RecurseDeleteKey(GetExtKeyPath(hkey, ext));
-  // then we delete only NanaZip.* key.
+  // then we delete only Nanazip-PM.* key.
   rootKey.RecurseDeleteKey(GetFullKeyPath(hkey, GetExtProgramKeyName(ext)));
   rootKey.Detach();
   return res;

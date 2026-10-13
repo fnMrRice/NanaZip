@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Basque</value>
@@ -268,7 +268,7 @@
     <value>&amp;Edukiak...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip Buruz...</value>
+    <value>Nanazip-PM Buruz...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Helburua</value>
@@ -541,13 +541,13 @@
     <value>Sistema</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Elkartu NanaZip hauekin:</value>
+    <value>Elkartu Nanazip-PM hauekin:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Erabiltzaile guztiak</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>&amp;Bateratu NanaZip shell hitzinguru menura</value>
+    <value>&amp;Bateratu Nanazip-PM shell hitzinguru menura</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>&amp;Urjauzi hitzinguru menua</value>
@@ -640,10 +640,10 @@
     <value>Erabili &amp;oroimen handiko orrialdeak</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip buruz</value>
+    <value>Nanazip-PM buruz</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip software askea da</value>
+    <value>Nanazip-PM software askea da</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Sistemak ezin du beharrezko oroimen kopurua esleitu</value>

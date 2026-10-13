@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Japanese</value>
@@ -118,7 +118,7 @@
     <value>開く(&amp;O)</value>
   </data>
   <data name="Resource541" xml:space="preserve">
-    <value>NanaZip で開く(&amp;I)</value>
+    <value>Nanazip-PM で開く(&amp;I)</value>
   </data>
   <data name="Resource542" xml:space="preserve">
     <value>関連付けで開く(&amp;U)</value>
@@ -169,10 +169,10 @@
     <value>閉じる(&amp;X)</value>
   </data>
   <data name="Resource590" xml:space="preserve">
-    <value>NanaZip で開く *</value>
+    <value>Nanazip-PM で開く *</value>
   </data>
   <data name="Resource591" xml:space="preserve">
-    <value>NanaZip で開く #</value>
+    <value>Nanazip-PM で開く #</value>
   </data>
   <data name="Resource558" xml:space="preserve">
     <value>リンク</value>
@@ -547,16 +547,16 @@
     <value>システム</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip に関連付けるファイル:</value>
+    <value>Nanazip-PM に関連付けるファイル:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>すべてのユーザー</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>シェル コンテキストメニューに NanaZip を登録</value>
+    <value>シェル コンテキストメニューに Nanazip-PM を登録</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
-    <value>NanaZip をサブメニュー化</value>
+    <value>Nanazip-PM をサブメニュー化</value>
   </data>
   <data name="Resource2303" xml:space="preserve">
     <value>メニュー アイテム:</value>
@@ -664,10 +664,10 @@
     <value>ハッシュ値を小文字で表示</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip について</value>
+    <value>Nanazip-PM について</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip はフリーウェアです</value>
+    <value>Nanazip-PM はフリーウェアです</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>システムは必要な量のメモリを割り当てることができません</value>
@@ -1363,7 +1363,7 @@
     <value>システム</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Windows 設定アプリを開いて、ファイルを NanaZip に関連付ける</value>
+    <value>Windows 設定アプリを開いて、ファイルを Nanazip-PM に関連付ける</value>
   </data>
 
 </root>

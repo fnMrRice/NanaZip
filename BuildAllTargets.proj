@@ -99,14 +99,15 @@
       <InputBinariesPath>$(MSBuildThisFileDirectory)Output\Binaries\Release\</InputBinariesPath>
       <OutputBinariesPath>$(MSBuildThisFileDirectory)Output\Binaries\Root\Binaries\</OutputBinariesPath>
       <OutputSymbolsPath>$(MSBuildThisFileDirectory)Output\Binaries\Root\Symbols\</OutputSymbolsPath>
-      <OutputFileNamePrefix Condition="'$(NanaZipBuildPreviewRelease)' != 'true'">NanaZip_$(MileProjectVersion)</OutputFileNamePrefix>
-      <OutputFileNamePrefix Condition="'$(NanaZipBuildPreviewRelease)' == 'true'">NanaZipPreview_$(MileProjectVersion)</OutputFileNamePrefix>
+      <OutputFileNamePrefix Condition="'$(NanaZipBuildPreviewRelease)' != 'true'">Nanazip-PM_$(MileProjectVersion)</OutputFileNamePrefix>
+      <OutputFileNamePrefix Condition="'$(NanaZipBuildPreviewRelease)' == 'true'">Nanazip-PM-Preview_$(MileProjectVersion)</OutputFileNamePrefix>
     </PropertyGroup>
 
     <ItemGroup>
       <DocumentFile Include="License.md" Packages="Binaries;Symbols" />
       <DocumentFile Include="ReadMe.md" Packages="Binaries" />
       <DocumentFile Include="Documents\People.md" Packages="Binaries" />
+      <DocumentFile Include="Documents\Branding.md" Packages="Binaries" />
       <DocumentFile Include="Documents\Policies.md" Packages="Binaries" />
       <DocumentFile Include="Documents\ReleaseNotes.md" Packages="Binaries" />
       <DocumentFile Include="Documents\ReleaseNotesPreview.md" Packages="Binaries" />
@@ -120,11 +121,11 @@
       <BinaryFile Include="NanaZip.Core.Console.sfx" Symbol="NanaZip.Core.Console.pdb" />
       <BinaryFile Include="NanaZip.Core.Windows.sfx" Symbol="NanaZip.Core.Windows.pdb" />
       <BinaryFile Include="NanaZip.Modern.dll" Symbol="true" />
-      <BinaryFile Include="NanaZip.Universal.Console.exe" Symbol="true" />
-      <BinaryFile Include="NanaZip.Universal.Windows.exe" Symbol="true" />
+      <BinaryFile Include="Nanazip-PM.Console.exe" Symbol="true" />
+      <BinaryFile Include="Nanazip-PM.Windows.exe" Symbol="true" />
       <BinaryFile Include="Mile.Xaml.Styles.SunValley.xbf" />
       <BinaryFile Include="resources.pri" />
-      <SymbolFile Include="NanaZip.Modern.FileManager.pdb" />
+      <SymbolFile Include="Nanazip-PM.Modern.FileManager.pdb" />
       <SymbolFile Include="NanaZip.ShellExtension.pdb" />
     </ItemGroup>
     <ItemGroup Condition="'$(NanaZipBuildWithSanitizers)' == 'true'">
@@ -177,11 +178,11 @@
     <Copy SourceFiles="@(OutputFile)" DestinationFiles="@(OutputFile->'%(Destination)')" />
 
     <ItemGroup>
-      <PackagingTool Include="$(InputBinariesPath)NanaZipPackage\x64\NanaZip.Universal.Console.exe" />
-      <PackagingTool Include="$(InputBinariesPath)NanaZipPackage\arm64\NanaZip.Universal.Console.exe" />
+      <PackagingTool Include="$(InputBinariesPath)NanaZipPackage\x64\Nanazip-PM.Console.exe" />
+      <PackagingTool Include="$(InputBinariesPath)NanaZipPackage\arm64\Nanazip-PM.Console.exe" />
       <PackagingTool Remove="@(PackagingTool)" Condition="!Exists('%(PackagingTool.Identity)')" />
     </ItemGroup>
-    <Error Condition="'@(PackagingTool)' == ''" Text="Cannot find NanaZip.Universal.Console.exe for packaging." />
+    <Error Condition="'@(PackagingTool)' == ''" Text="Cannot find Nanazip-PM.Console.exe for packaging." />
     <PropertyGroup>
       <PackagingToolPath>@(PackagingTool)</PackagingToolPath>
       <PackagingToolPath>$([System.String]::Copy('$(PackagingToolPath)').Split(';').GetValue(0))</PackagingToolPath>
@@ -199,8 +200,8 @@
       test the GUI version of NanaZip. For UI\NanaZip_Universal_Console, this
       will only build the console version of NanaZip, which you need to get
       binaries from something like
-      .\Output\Binaries\Release\x64\NanaZip.Universal.Console.exe instead of
-      .\Output\Binaries\Release\NanaZipPackage\x64\NanaZip.Universal.Console.exe.
+      .\Output\Binaries\Release\x64\Nanazip-PM.Console.exe instead of
+      .\Output\Binaries\Release\NanaZipPackage\x64\Nanazip-PM.Console.exe.
     -->
     <MSBuild
       Projects="$(SolutionPath)"

@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Czech</value>
@@ -268,7 +268,7 @@
     <value>&amp;Obsah...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>O programu NanaZip...</value>
+    <value>O programu Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Cesta</value>
@@ -544,13 +544,13 @@
     <value>Systém</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Asociovat NanaZip s:</value>
+    <value>Asociovat Nanazip-PM s:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Všichni uživatelé</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>&amp;Integrovat NanaZip do kontextového menu</value>
+    <value>&amp;Integrovat Nanazip-PM do kontextového menu</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>S&amp;tupňovité kontextové menu</value>
@@ -643,10 +643,10 @@
     <value>&amp;Používat velké stránky paměti</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>O programu NanaZip</value>
+    <value>O programu Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip je svobodný software. Nicméně můžete podpořit jeho vývoj registrací.</value>
+    <value>Nanazip-PM je svobodný software. Nicméně můžete podpořit jeho vývoj registrací.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Systém nemůže přidělit požadovanou velikost paměti</value>

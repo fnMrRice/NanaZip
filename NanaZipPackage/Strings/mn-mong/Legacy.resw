@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Mongolian (Unicode)</value>
@@ -259,7 +259,7 @@
     <value>ᠬᠠᠪᠰᠤᠷᠤᠮᠵᠢ ᠦᠵᠡᠬᠦ  (&amp;C)</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip ‍ᠣ ᠲᠤᠬᠠᠢ</value>
+    <value>Nanazip-PM ‍ᠣ ᠲᠤᠬᠠᠢ</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>ᠵᠠᠮ</value>
@@ -457,10 +457,10 @@
     <value>ᠰᠢᠰᠲ᠋ᠧᠮ</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip ᠪᠠᠷ ᠹᠠᠶᠢᠯ  ᠤᠨ ᠲᠥᠷᠥᠯ  ᠢ ᠬᠣᠯᠪᠣᠭᠳᠠᠭᠤᠯᠬᠤ ᠄</value>
+    <value>Nanazip-PM ᠪᠠᠷ ᠹᠠᠶᠢᠯ  ᠤᠨ ᠲᠥᠷᠥᠯ  ᠢ ᠬᠣᠯᠪᠣᠭᠳᠠᠭᠤᠯᠬᠤ ᠄</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip ᠶ᠋ᠢ ᠪᠠᠷᠠᠭᠤᠨ ᠳᠠᠷᠤᠪᠴᠢ ᠳ᠋ᠥ ᠨᠡᠮᠡᠬᠦ</value>
+    <value>Nanazip-PM ᠶ᠋ᠢ ᠪᠠᠷᠠᠭᠤᠨ ᠳᠠᠷᠤᠪᠴᠢ ᠳ᠋ᠥ ᠨᠡᠮᠡᠬᠦ</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>ᠪᠠᠷᠠᠭᠤᠨ ᠳᠠᠷᠤᠪᠴᠢ ᠳ᠋ᠥ ᠳᠠᠪᠬᠤᠴᠠᠭᠤᠯᠬᠤ</value>
@@ -544,16 +544,16 @@
     <value>ᠲᠣᠪᠴᠢᠳᠠᠭᠠᠳ ᠨᠡᠭᠡᠭᠡᠬᠦ</value>
   </data>
   <data name="Resource2507" xml:space="preserve">
-    <value>NanaZip ᠤᠯᠠᠮᠵᠢᠯᠠᠯᠲᠤ ᠬᠡᠪ  ᠢ ᠰᠣᠩᠭᠣᠬᠤ (&amp;A)</value>
+    <value>Nanazip-PM ᠤᠯᠠᠮᠵᠢᠯᠠᠯᠲᠤ ᠬᠡᠪ  ᠢ ᠰᠣᠩᠭᠣᠬᠤ (&amp;A)</value>
   </data>
   <data name="Resource2508" xml:space="preserve">
     <value>ᠶᠡᠬᠡ ᠷᠠᠮ  ᠤᠨ ᠨᠢᠭᠤᠷ  ᠢ ᠬᠡᠷᠡᠭᠯᠡᠬᠦ (&amp;L)</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip  ᠶᠢᠨ ᠲᠤᠬᠠᠢ</value>
+    <value>Nanazip-PM  ᠶᠢᠨ ᠲᠤᠬᠠᠢ</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip ᠪᠣᠯ ᠲᠥᠯᠥᠪᠦᠷᠢ ᠦᠭᠡᠢ ᠰᠣᠹᠲ ᠂ ᠲᠠ ᠬᠠᠨᠳᠢᠪ  ᠤᠨ ᠬᠡᠯᠪᠡᠷᠢ ᠪᠠᠷ 7 -zip ᠶ᠋ᠢ ᠳᠡᠮᠵᠢᠵᠦ ᠪᠣᠯᠣᠨ᠎ᠠ ᠂ ᠮᠣᠩᠭᠣᠯ ᠰᠣᠹᠲ  ᠤᠨ ᠪᠦᠯᠦᠭ  ᠨᠢᠭᠡ 39338772  ᠬᠣᠶᠠᠷ  38803882 ᠵᠢᠨ ᠰᠠᠴᠤᠷᠠᠯᠲᠤ ᠮᠣᠩᠭᠣᠯᠴᠢᠯᠠᠪᠠ ᠂  QQ 136087084 Email: saqirilatu@126.com</value>
+    <value>Nanazip-PM ᠪᠣᠯ ᠲᠥᠯᠥᠪᠦᠷᠢ ᠦᠭᠡᠢ ᠰᠣᠹᠲ ᠂ ᠲᠠ ᠬᠠᠨᠳᠢᠪ  ᠤᠨ ᠬᠡᠯᠪᠡᠷᠢ ᠪᠠᠷ 7 -zip ᠶ᠋ᠢ ᠳᠡᠮᠵᠢᠵᠦ ᠪᠣᠯᠣᠨ᠎ᠠ ᠂ ᠮᠣᠩᠭᠣᠯ ᠰᠣᠹᠲ  ᠤᠨ ᠪᠦᠯᠦᠭ  ᠨᠢᠭᠡ 39338772  ᠬᠣᠶᠠᠷ  38803882 ᠵᠢᠨ ᠰᠠᠴᠤᠷᠠᠯᠲᠤ ᠮᠣᠩᠭᠣᠯᠴᠢᠯᠠᠪᠠ ᠂  QQ 136087084 Email: saqirilatu@126.com</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>ᠰᠢᠰᠲ᠋ᠧᠮ ᠷᠠᠮ  ᠢ ᠨᠢ ᠬᠤᠪᠢᠶᠠᠵᠤ ᠳᠡᠶᠢᠯᠬᠦ ᠦᠭᠡᠢ</value>

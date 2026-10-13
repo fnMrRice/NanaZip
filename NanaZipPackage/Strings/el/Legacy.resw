@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Greek</value>
@@ -268,7 +268,7 @@
     <value>&amp;Περιεχόμενα...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Σχετικά με NanaZip...</value>
+    <value>Σχετικά με Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Διαδρομή</value>
@@ -547,13 +547,13 @@
     <value>Σύστημα</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Συσχέτιση του NanaZip με:</value>
+    <value>Συσχέτιση του Nanazip-PM με:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Ολοι οι χρήστες</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Ενσωμάτωση του NanaZip στο μενού επιλογών</value>
+    <value>Ενσωμάτωση του Nanazip-PM στο μενού επιλογών</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Κλιμακούμενο μενού επιλογών</value>
@@ -664,10 +664,10 @@
     <value>Χρήση Καταρ/σμου Πεζών Χαρακτήρων</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Σχετικά με NanaZip</value>
+    <value>Σχετικά με Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>Το NanaZip είναι ελεύθερο λογισμικό</value>
+    <value>Το Nanazip-PM είναι ελεύθερο λογισμικό</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Το σύστημα δεν μπορεί να διαθέσει την απαιτούμενη ποσότητα μνήμης</value>
@@ -1360,6 +1360,6 @@
     <value>Ενσωμάτωση</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Άνοιγμα εφαρμογής ρυθμίσεων Windows για συσχέτιση αρχείων με το NanaZip</value>
+    <value>Άνοιγμα εφαρμογής ρυθμίσεων Windows για συσχέτιση αρχείων με το Nanazip-PM</value>
   </data>
 </root>

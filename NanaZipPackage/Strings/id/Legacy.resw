@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Indonesian</value>
@@ -268,7 +268,7 @@
     <value>Petun&amp;juk...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Tentang NanaZip...</value>
+    <value>Tentang Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Lintasan</value>
@@ -541,13 +541,13 @@
     <value>Sistem</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Asosiasikan NanaZip dengan:</value>
+    <value>Asosiasikan Nanazip-PM dengan:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Semua pengguna</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integrasikan NanaZip ke cangkang menu konteks</value>
+    <value>Integrasikan Nanazip-PM ke cangkang menu konteks</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Menu konteks dikaskade</value>
@@ -640,10 +640,10 @@
     <value>Gunakan halaman memori &amp;besar</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Mengenai NanaZip</value>
+    <value>Mengenai Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip merupakan perangkat lunak gratis.
+    <value>Nanazip-PM merupakan perangkat lunak gratis.
 
 Terjemahan oleh Frans Liando.</value>
   </data>

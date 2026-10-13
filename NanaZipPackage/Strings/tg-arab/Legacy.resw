@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Tajik</value>
@@ -529,13 +529,13 @@
     <value>Система</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Ассотсиатсияи NanaZip бо файлҳо:</value>
+    <value>Ассотсиатсияи Nanazip-PM бо файлҳо:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Ҳама корбарон</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip -ро ба менюи контексти ниҳонӣ дохил кардан</value>
+    <value>Nanazip-PM -ро ба менюи контексти ниҳонӣ дохил кардан</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Менюи контекстӣ</value>
@@ -628,10 +628,10 @@
     <value>Саҳифаҳои ҳофизаи калонро истифода бурдан</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Дар бораи NanaZip</value>
+    <value>Дар бораи Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip нармафзори ройгон аст.</value>
+    <value>Nanazip-PM нармафзори ройгон аст.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Хотираи кофӣ кофӣ нест</value>

@@ -1,7 +1,7 @@
 ﻿# NanaZip Policies
 
 Starting with NanaZip 6.0, users can configure system‑wide policies under the
-Windows registry key `HKLM\Software\Policies\M2Team\NanaZip`.
+Windows registry key `HKLM\Software\Policies\M2Team\Nanazip-PM`.
 
 These system-wide policies override user settings and are intended for use by
 system administrators to enforce specific configurations across multiple users

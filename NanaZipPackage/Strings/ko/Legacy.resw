@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Korean</value>
@@ -268,7 +268,7 @@
     <value>도움말 항목(&amp;C)...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip 정보...</value>
+    <value>Nanazip-PM 정보...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>경로</value>
@@ -550,13 +550,13 @@
     <value>시스템</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip 으로 연결:</value>
+    <value>Nanazip-PM 으로 연결:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>모든 사용자</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip 탐색기 메뉴 사용</value>
+    <value>Nanazip-PM 탐색기 메뉴 사용</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>탐색기 메뉴 계단식 보기</value>
@@ -667,10 +667,10 @@
     <value>해시를 소문자로 사용</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip 정보</value>
+    <value>Nanazip-PM 정보</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip 은 무료 소프트웨어입니다.</value>
+    <value>Nanazip-PM 은 무료 소프트웨어입니다.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>시스템이 필요한 양의 메모리를 할당할 수 없음</value>
@@ -1363,6 +1363,6 @@
     <value>통합</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>파일을 NanaZip과 연결하려면 Windows 설정 앱 열기</value>
+    <value>파일을 Nanazip-PM과 연결하려면 Windows 설정 앱 열기</value>
   </data>
 </root>

@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Romanian</value>
@@ -256,7 +256,7 @@
     <value>&amp;Conţinut...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Despre NanaZip...</value>
+    <value>Despre Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Calea</value>
@@ -433,10 +433,10 @@
     <value>Sistem</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Asociază NanaZip cu:</value>
+    <value>Asociază Nanazip-PM cu:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integrează NanaZip în contextul meniului shell</value>
+    <value>Integrează Nanazip-PM în contextul meniului shell</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Contextul meniului în cascadă</value>
@@ -523,10 +523,10 @@
     <value>Utilizează pagini &amp;mari de memorie</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Despre NanaZip</value>
+    <value>Despre Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip este un program gratuit. Oricum, poţi contribui la dezvoltarea NanaZip înregistrându-te.</value>
+    <value>Nanazip-PM este un program gratuit. Oricum, poţi contribui la dezvoltarea Nanazip-PM înregistrându-te.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Sistemul nu poate aloca memoria necesară</value>

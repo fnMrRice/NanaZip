@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Hungarian</value>
@@ -268,7 +268,7 @@
     <value>&amp;Tartalomjegyzék...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip névjegye...</value>
+    <value>Nanazip-PM névjegye...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Útvonal</value>
@@ -550,13 +550,13 @@
     <value>Rendszer</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip társítása:</value>
+    <value>Nanazip-PM társítása:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Minden felhasználóhoz</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip hozzáadása a parancsértelmező helyi menüjéhez</value>
+    <value>Nanazip-PM hozzáadása a parancsértelmező helyi menüjéhez</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Lépcsőzetes helyi menü</value>
@@ -667,10 +667,10 @@
     <value>Használjon kisbetűs kivonatot</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>A NanaZip névjegye</value>
+    <value>A Nanazip-PM névjegye</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>A NanaZip ingyenes szoftver.</value>
+    <value>A Nanazip-PM ingyenes szoftver.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>A rendszer nem tudja lefoglalni a szükséges memóriát</value>
@@ -1364,6 +1364,6 @@ Biztos fel akarja darabolni az archívumot ilyen kötetre?</value>
     <value>Integráció</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Nyissa meg a Windows Beállítások alkalmazást a fájlok NanaZiphez való társításához</value>
+    <value>Nyissa meg a Windows Beállítások alkalmazást a fájlok Nanazip-PMhez való társításához</value>
   </data>
 </root>

@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Albanian</value>
@@ -268,7 +268,7 @@
     <value>&amp;Përmbajtjet...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Rreth NanaZip...</value>
+    <value>Rreth Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Shtegu</value>
@@ -547,13 +547,13 @@
     <value>Sistemi</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Lidh NanaZip me:</value>
+    <value>Lidh Nanazip-PM me:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Çdo përdorues</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integro NanaZip në menynë e kontekstit të shellit</value>
+    <value>Integro Nanazip-PM në menynë e kontekstit të shellit</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Meny e kontekstit ujëvarë</value>
@@ -664,10 +664,10 @@
     <value>Përdor hash-et me shkronja të vogla</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Rreth NanaZip</value>
+    <value>Rreth Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip është program falas.</value>
+    <value>Nanazip-PM është program falas.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Sistemi nuk mund të ndajë sasinë e kërkuar të kujtesës</value>
@@ -1360,7 +1360,7 @@ Je i sigurt që dëshiron të ndash arkivin në vëllime të tilla?</value>
     <value>Integrimi</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Hapni aplikacionin Cilësimet e Windows për të lidhur skedarët me NanaZip</value>
+    <value>Hapni aplikacionin Cilësimet e Windows për të lidhur skedarët me Nanazip-PM</value>
   </data>
 
 </root>

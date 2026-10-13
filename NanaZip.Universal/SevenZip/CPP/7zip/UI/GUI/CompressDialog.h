@@ -368,7 +368,7 @@ public:
   {
     // **************** NanaZip Modification Start ****************
     //MessageBoxW(*this, message, L"7-Zip", MB_ICONERROR);
-    MessageBoxW(*this, message, L"NanaZip", MB_ICONERROR);
+    MessageBoxW(*this, message, L"Nanazip-PM", MB_ICONERROR);
     // **************** NanaZip Modification End ****************
   }
 

@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Arabic</value>
@@ -268,7 +268,7 @@
     <value>..&amp;المحتويات</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip حول...</value>
+    <value>Nanazip-PM حول...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>المسار</value>
@@ -643,7 +643,7 @@
     <value>حول البرنامج</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip هو برمجية مجانية</value>
+    <value>Nanazip-PM هو برمجية مجانية</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>لا يمكن للنظام تخصيص الكمية المطلوبة للذاكرة</value>

@@ -76,4 +76,7 @@
     </ProjectReference>
   </ItemGroup>
   <Import Sdk="Mile.Project.Configurations" Project="Mile.Project.Wap.targets" />
+  <PropertyGroup>
+    <ProjectName>Nanazip-PM</ProjectName>
+  </PropertyGroup>
 </Project>

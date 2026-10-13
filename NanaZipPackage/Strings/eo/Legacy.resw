@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Esperanto</value>
@@ -256,7 +256,7 @@
     <value>&amp;Enhavo...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Pri NanaZip...</value>
+    <value>Pri Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Dosierindiko</value>
@@ -382,10 +382,10 @@
     <value>Sistemo</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Asociu NanaZip-on kun dosieroj:</value>
+    <value>Asociu Nanazip-PM-on kun dosieroj:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Metu NanaZip'on en kuntekstan menuon de ŝelo</value>
+    <value>Metu Nanazip-PM'on en kuntekstan menuon de ŝelo</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Kaskada kunteksta menuo</value>
@@ -475,7 +475,7 @@
     <value>Informo</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip estas senpaga programo. Tamen, vi povas subteni evoluadon de NanaZip per enregistriĝo.</value>
+    <value>Nanazip-PM estas senpaga programo. Tamen, vi povas subteni evoluadon de Nanazip-PM per enregistriĝo.</value>
   </data>
   <data name="Resource3001" xml:space="preserve">
     <value>Eraroj ne trovitaj</value>

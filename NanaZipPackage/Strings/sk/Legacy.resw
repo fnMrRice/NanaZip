@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Slovak</value>
@@ -265,7 +265,7 @@
     <value>&amp;Obsah pomocníka...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>O programe NanaZip</value>
+    <value>O programe Nanazip-PM</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Cesta</value>
@@ -538,10 +538,10 @@
     <value>Systém</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Asociovať NanaZip s vybranými typmi súborov:</value>
+    <value>Asociovať Nanazip-PM s vybranými typmi súborov:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integrovať NanaZip do kontextovej ponuky</value>
+    <value>Integrovať Nanazip-PM do kontextovej ponuky</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Kaskádová kontextová ponuka</value>
@@ -634,10 +634,10 @@
     <value>Použitie veľkých stránok pamäti</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>O programe NanaZip</value>
+    <value>O programe Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip je voľne šíriteľný softvér</value>
+    <value>Nanazip-PM je voľne šíriteľný softvér</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Systém nemôže alokovať požadované množstvo pamäte</value>

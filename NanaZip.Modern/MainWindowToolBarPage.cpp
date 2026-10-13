@@ -118,7 +118,7 @@ namespace
 
         if (!::CreateProcessW(
             ApplicationName.c_str(),
-            const_cast<LPWSTR>(L"NanaZip --AcquireSponsorEdition"),
+            const_cast<LPWSTR>(L"Nanazip-PM --AcquireSponsorEdition"),
             nullptr,
             nullptr,
             TRUE,
@@ -625,7 +625,7 @@ namespace winrt::NanaZip::Modern::implementation
 
             ::RegDeleteKeyValueW(
                 HKEY_CURRENT_USER,
-                L"Software\\NanaZip",
+                L"Software\\Nanazip-PM",
                 L"SponsorEdition");
 
             this->RefreshSponsorButtonContent();
@@ -639,7 +639,7 @@ namespace winrt::NanaZip::Modern::implementation
             DWORD Length = sizeof(DWORD);
             if (ERROR_SUCCESS == ::RegGetValueW(
                 HKEY_CURRENT_USER,
-                L"Software\\NanaZip",
+                L"Software\\Nanazip-PM",
                 L"SponsorEdition",
                 RRF_RT_REG_DWORD | RRF_SUBKEY_WOW6464KEY,
                 nullptr,
@@ -674,7 +674,7 @@ namespace winrt::NanaZip::Modern::implementation
             DWORD Data = Sponsored;
             ::RegSetKeyValueW(
                 HKEY_CURRENT_USER,
-                L"Software\\NanaZip",
+                L"Software\\Nanazip-PM",
                 L"SponsorEdition",
                 REG_DWORD,
                 &Data,

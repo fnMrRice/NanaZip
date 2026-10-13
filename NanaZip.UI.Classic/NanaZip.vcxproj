@@ -10,11 +10,11 @@
     <CppWinRTGenerateWindowsMetadata>false</CppWinRTGenerateWindowsMetadata>
     <MileProjectUseProjectProperties>true</MileProjectUseProjectProperties>
     <MileProjectCompanyName>M2-Team</MileProjectCompanyName>
-    <MileProjectFileDescription>NanaZip Graphical User Interface</MileProjectFileDescription>
-    <MileProjectInternalName>NanaZip</MileProjectInternalName>
+    <MileProjectFileDescription>Nanazip-PM Graphical User Interface</MileProjectFileDescription>
+    <MileProjectInternalName>Nanazip-PM</MileProjectInternalName>
     <MileProjectLegalCopyright>© M2-Team and Contributors. All rights reserved.</MileProjectLegalCopyright>
-    <MileProjectOriginalFilename>NanaZip.exe</MileProjectOriginalFilename>
-    <MileProjectProductName>NanaZip</MileProjectProductName>
+    <MileProjectOriginalFilename>Nanazip-PM.exe</MileProjectOriginalFilename>
+    <MileProjectProductName>Nanazip-PM</MileProjectProductName>
     <MileWindowsHelpersNoCppWinRTHelpers>true</MileWindowsHelpersNoCppWinRTHelpers>
   </PropertyGroup>
   <Import Project="..\NanaZip.Project\NanaZip.Project.props" />
@@ -25,6 +25,9 @@
   <Import Project="..\NanaZip.Project\NanaZip.Project.Runtime.props" />
   <Import Project="..\K7Base\K7Base.props" />
   <Import Project="..\K7User\K7User.props" />
+  <PropertyGroup>
+    <TargetName>Nanazip-PM</TargetName>
+  </PropertyGroup>
   <ItemDefinitionGroup>
     <ClCompile>
       <AdditionalOptions>%(AdditionalOptions) /Wv:18</AdditionalOptions>

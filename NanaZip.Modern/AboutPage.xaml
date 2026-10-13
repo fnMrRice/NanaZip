@@ -18,7 +18,7 @@
         Margin="0,0,0,12"
         FontSize="24"
         FontWeight="SemiBold"
-        Text="[About NanaZip]" />
+        Text="[About Nanazip-PM]" />
       <TextBlock>
         <Run x:Name="Version" />
         <LineBreak />
@@ -43,7 +43,7 @@
         Grid.Column="0"
         HorizontalAlignment="Stretch"
         Click="NanaZipWebsiteButtonClick"
-        Content="NanaZip.org" />
+        Content="Nanazip-PM" />
       <Button
         Grid.Column="2"
         HorizontalAlignment="Stretch"

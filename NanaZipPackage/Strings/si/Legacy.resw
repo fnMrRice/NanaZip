@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Sinhala</value>
@@ -268,7 +268,7 @@
     <value>&amp;අන්තර්ගත...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip පිළිබඳව...</value>
+    <value>Nanazip-PM පිළිබඳව...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>මාර්ගය</value>
@@ -541,13 +541,13 @@
     <value>පද්ධතිය</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip සමඟ ආශ්‍රිත:</value>
+    <value>Nanazip-PM සමඟ ආශ්‍රිත:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>සියළුම පරිශීලකයින්</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integrate NanaZip to shell context menu</value>
+    <value>Integrate Nanazip-PM to shell context menu</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Cascaded context menu</value>
@@ -640,10 +640,10 @@
     <value>&amp;විශාල මතක පිටු භාවිතා කරන්න</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip පිළිබඳව</value>
+    <value>Nanazip-PM පිළිබඳව</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip නිදහස් මෘදුකාංගයකි.</value>
+    <value>Nanazip-PM නිදහස් මෘදුකාංගයකි.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>ඇවැසි මතක ප්‍රමාණය පද්ධතියට වෙන් කර ගත නොහැකිය</value>

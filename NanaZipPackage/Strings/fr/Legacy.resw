@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>French</value>
@@ -268,7 +268,7 @@
     <value>&amp;Contenu...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>À propos de NanaZip...</value>
+    <value>À propos de Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Chemin</value>
@@ -541,13 +541,13 @@
     <value>Système</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Associer avec NanaZip :</value>
+    <value>Associer avec Nanazip-PM :</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Tous les utilisateurs</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Intégrer NanaZip au menu contextuel</value>
+    <value>Intégrer Nanazip-PM au menu contextuel</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Menu contextuel en cascade</value>
@@ -640,10 +640,10 @@
     <value>Utiliser des &amp;grosses pages mémoire</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>A propos de NanaZip</value>
+    <value>A propos de Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip est un logiciel libre</value>
+    <value>Nanazip-PM est un logiciel libre</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Le système ne peut allouer la quantité de mémoire nécessaire</value>

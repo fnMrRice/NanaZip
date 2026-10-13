@@ -1,14 +1,14 @@
-﻿#define AppName "NanaZip Extension Package"
-#define AppPublisher "M2-Team"
+﻿#define AppName "Nanazip-PM Extension Package"
+#define AppPublisher "Nanazip-PM"
 #define AppCopyright "© M2-Team and Contributors. All rights reserved."
-#define AppURL "https://github.com/M2Team/NanaZip"
+#define AppURL "https://github.com/fnMrRice/NanaZip"
 
 #ifndef AppVersion
 #define AppVersion "5.1.0.0"
 #endif
 
 [Setup]
-AppId={{42795434-AB1A-4197-A724-F13E08953DFC}
+AppId={{ED246F44-F793-4F89-AF7D-4661DB11E5C8}
 AppName={#AppName}
 AppCopyright={#AppCopyright}
 AppVersion={#AppVersion}
@@ -24,7 +24,7 @@ VersionInfoVersion={#AppVersion}
 
 PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog
-OutputBaseFilename=NanaZip.ExtensionPackage_{#AppVersion}
+OutputBaseFilename=Nanazip-PM.ExtensionPackage_{#AppVersion}
 SolidCompression=yes
 WizardStyle=modern
 

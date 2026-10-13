@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Polish</value>
@@ -268,7 +268,7 @@
     <value>&amp;Zawartość</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip - informacje</value>
+    <value>Nanazip-PM - informacje</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Ścieżka</value>
@@ -550,13 +550,13 @@
     <value>System</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Skojarz program NanaZip z:</value>
+    <value>Skojarz program Nanazip-PM z:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Wszyscy użytkownicy</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Zintegruj program NanaZip z menu kontekstowym powłoki</value>
+    <value>Zintegruj program Nanazip-PM z menu kontekstowym powłoki</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Kaskadowe menu kontekstowe</value>
@@ -667,10 +667,10 @@
     <value>Małoliterowe sumy kontrolne</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip - informacje</value>
+    <value>Nanazip-PM - informacje</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip jest programem darmowym.</value>
+    <value>Nanazip-PM jest programem darmowym.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>System nie może przydzielić wymaganej ilości pamięci</value>
@@ -1366,6 +1366,6 @@ Czy na pewno chcesz podzielić archiwum na takie woluminy?</value>
     <value>Integracja</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Otwórz Ustawienia, aby powiązać typy plików z programem NanaZip</value>
+    <value>Otwórz Ustawienia, aby powiązać typy plików z programem Nanazip-PM</value>
   </data>
 </root>

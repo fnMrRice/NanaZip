@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Uzbek-Cyrillic</value>
@@ -268,7 +268,7 @@
     <value>&amp;Маълумотнома...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip дастури ҳақида...</value>
+    <value>Nanazip-PM дастури ҳақида...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Йўлак</value>
@@ -541,13 +541,13 @@
     <value>Тизим</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip билан бириккан форматлар:</value>
+    <value>Nanazip-PM билан бириккан форматлар:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Барча фойд-чилар</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip дастурини контекст менюга бириктирмоқ</value>
+    <value>Nanazip-PM дастурини контекст менюга бириктирмоқ</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Контекст менюни ичма-ич қилмоқ</value>
@@ -640,10 +640,10 @@
     <value>&amp;Катта ҳажмли хотирадан фойдаланмоқ</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip дастури ҳақида</value>
+    <value>Nanazip-PM дастури ҳақида</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip бепул дастурий таъминот ҳисобланади.</value>
+    <value>Nanazip-PM бепул дастурий таъминот ҳисобланади.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Тизим керакли ҳажмдаги хотирани ажрата олмайди.</value>

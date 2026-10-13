@@ -912,7 +912,7 @@ STDMETHODIMP CZipContextMenu::QueryContextMenu(HMENU hMenu, UINT indexMenu,
     CMenu menu;
     menu.Attach(hMenu);
     menuDestroyer.Disable();
-    MyAddSubMenu(_commandMap, kMainVerb, menu, indexMenu++, currentCommandID++, (UString)"NanaZip",
+    MyAddSubMenu(_commandMap, kMainVerb, menu, indexMenu++, currentCommandID++, (UString)"Nanazip-PM",
         popupMenu, // popupMenu.Detach(),
         bitmap);
   }
@@ -1064,7 +1064,7 @@ int CZipContextMenu::FindVerb(const UString &verb)
 
 static UString Get7zFmPath()
 {
-  return fs2us(NWindows::NDLL::GetModuleDirPrefix()) + L"NanaZip.exe";
+  return fs2us(NWindows::NDLL::GetModuleDirPrefix()) + L"Nanazip-PM.exe";
 }
 
 
@@ -1293,7 +1293,7 @@ HRESULT CZipContextMenu::InvokeCommandCommon(const CCommandMapItem &cmi)
   }
   catch(...)
   {
-    ::MessageBoxW(0, L"Error", L"NanaZip", MB_ICONERROR);
+    ::MessageBoxW(0, L"Error", L"Nanazip-PM", MB_ICONERROR);
   }
   return S_OK;
 }
@@ -1542,10 +1542,10 @@ STDMETHODIMP CZipExplorerCommand::GetTitle(IShellItemArray *psiItemArray, LPWSTR
   if (IsRoot)
   {
     LoadItems(psiItemArray);
-    name = "NanaZip"; //  "New"
+    name = "Nanazip-PM"; //  "New"
   }
   else
-    name = "NanaZip item";
+    name = "Nanazip-PM item";
 
   if (!_commandMap_Cur.IsEmpty())
   {

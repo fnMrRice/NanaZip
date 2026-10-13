@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Irish</value>
@@ -259,7 +259,7 @@
     <value>&amp;Inneachair...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Maidir le NanaZip...</value>
+    <value>Maidir le Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Conair</value>
@@ -457,10 +457,10 @@
     <value>Córas</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Comhthiomsaigh NanaZip le:</value>
+    <value>Comhthiomsaigh Nanazip-PM le:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Comhtháthaigh NanaZip sa roghchlár comhthéacs</value>
+    <value>Comhtháthaigh Nanazip-PM sa roghchlár comhthéacs</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Roghchlár comhthéacs ag titim</value>
@@ -550,10 +550,10 @@
     <value>Bain feidhm as leathanaigh chuimhne mhóra</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Maidir le NanaZip</value>
+    <value>Maidir le Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>Is saorearra é NanaZip. Is féidir tacaíocht a thabhairt dá fhorbairt amach anseo, áfach, trí chlárú.</value>
+    <value>Is saorearra é Nanazip-PM. Is féidir tacaíocht a thabhairt dá fhorbairt amach anseo, áfach, trí chlárú.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Ní féidir leis an gcóras an méid cuimhne atá de dhíth a leathdháileadh dó</value>

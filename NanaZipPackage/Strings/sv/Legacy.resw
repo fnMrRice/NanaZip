@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Swedish</value>
@@ -268,7 +268,7 @@
     <value>&amp;Hjälp...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Om NanaZip...</value>
+    <value>Om Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Sökväg</value>
@@ -547,16 +547,16 @@
     <value>System</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Associera NanaZip med följande filtyper:</value>
+    <value>Associera Nanazip-PM med följande filtyper:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Alla användare</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Lägg till i NanaZip som alternativ i Utforskarens snabbmeny</value>
+    <value>Lägg till i Nanazip-PM som alternativ i Utforskarens snabbmeny</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
-    <value>Placera NanaZip som en undermeny</value>
+    <value>Placera Nanazip-PM som en undermeny</value>
   </data>
   <data name="Resource2303" xml:space="preserve">
     <value>Objekt i snabbmenyn:</value>
@@ -646,10 +646,10 @@
     <value>Använd &amp;stora minnessidor</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Om NanaZip</value>
+    <value>Om Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip är fri och gratis programvara.</value>
+    <value>Nanazip-PM är fri och gratis programvara.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Systemet kan inte allokera den begärda minnesmängden</value>

@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>German</value>
@@ -268,7 +268,7 @@
     <value>&amp;Hilfethemen</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Über NanaZip...</value>
+    <value>Über Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Pfad</value>
@@ -544,13 +544,13 @@
     <value>System</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip verknüpfen mit:</value>
+    <value>Nanazip-PM verknüpfen mit:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>alle Benutzer</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip in Kontextmenü integrieren</value>
+    <value>Nanazip-PM in Kontextmenü integrieren</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Kontextmenü kaskadieren</value>
@@ -643,10 +643,10 @@
     <value>Große &amp;Speicherseiten verwenden</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Info über NanaZip</value>
+    <value>Info über Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip ist freie Software. Sie können jedoch das Projekt durch eine Registrierung unterstützen.</value>
+    <value>Nanazip-PM ist freie Software. Sie können jedoch das Projekt durch eine Registrierung unterstützen.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Das System kann die benötigte Speichermenge nicht bereitstellen.</value>
@@ -1303,6 +1303,6 @@ Sind Sie sicher, dass das Archiv dementsprechend aufgesplittet werden soll?</val
     <value>Integration</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Windows-Einstellungen öffnen, um Dateien mit NanaZip zu verknüpfen</value>
+    <value>Windows-Einstellungen öffnen, um Dateien mit Nanazip-PM zu verknüpfen</value>
   </data>
 </root>

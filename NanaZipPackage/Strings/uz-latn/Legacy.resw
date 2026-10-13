@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Uzbek</value>
@@ -268,7 +268,7 @@
     <value>&amp;Ma’lumotnoma...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip dasturi haqida...</value>
+    <value>Nanazip-PM dasturi haqida...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Yo‘lak</value>
@@ -541,13 +541,13 @@
     <value>Tizim</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip bilan birikkan formatlar:</value>
+    <value>Nanazip-PM bilan birikkan formatlar:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Barcha foyd-chilar</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip dasturini kontekst menyuga biriktirmoq</value>
+    <value>Nanazip-PM dasturini kontekst menyuga biriktirmoq</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Kontekst menyuni ichma-ich qilmoq</value>
@@ -640,10 +640,10 @@
     <value>&amp;Katta hajmli xotiradan foydalanmoq</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip dasturi haqida</value>
+    <value>Nanazip-PM dasturi haqida</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip bepul dasturiy ta’minot hisoblanadi.</value>
+    <value>Nanazip-PM bepul dasturiy ta’minot hisoblanadi.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Tizim kerakli hajmdagi xotirani ajrata olmaydi.</value>

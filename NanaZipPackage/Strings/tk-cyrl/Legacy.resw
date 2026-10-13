@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Turkmen</value>
@@ -268,7 +268,7 @@
     <value>Ma&amp;zmunlar...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip Hakynda</value>
+    <value>Nanazip-PM Hakynda</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Ýol</value>
@@ -541,13 +541,13 @@
     <value>Sistema</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip bilen şärik et:</value>
+    <value>Nanazip-PM bilen şärik et:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Ähli Ulanyjylar</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZipi kontekst/baglam menýu bilen birleşdir</value>
+    <value>Nanazip-PMi kontekst/baglam menýu bilen birleşdir</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Basgançaklaşdyrylan kontekst/baglam menýu</value>
@@ -640,10 +640,10 @@
     <value>Uly hakyda sahypasyny u&amp;lan</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip Hakynda</value>
+    <value>Nanazip-PM Hakynda</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip erkin bir programma üpçünçiligidir</value>
+    <value>Nanazip-PM erkin bir programma üpçünçiligidir</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Sistema gerekli hakyda mukdaryny bölüp alyp bilmedi</value>

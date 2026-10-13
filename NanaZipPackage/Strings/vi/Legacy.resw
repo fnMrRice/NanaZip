@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Vietnamese</value>
@@ -259,7 +259,7 @@
     <value>Nội dung...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Về NanaZip...</value>
+    <value>Về Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Đường dẫn</value>
@@ -457,10 +457,10 @@
     <value>Hệ thống</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Kết hợp NanaZip với:</value>
+    <value>Kết hợp Nanazip-PM với:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Tích hợp NanaZip vào menu ngữ cảnh</value>
+    <value>Tích hợp Nanazip-PM vào menu ngữ cảnh</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Xếp tầng menu ngữ cảnh</value>
@@ -550,10 +550,10 @@
     <value>Sử dụng bộ nhớ lớn</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Về NanaZip</value>
+    <value>Về Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip là một phần mềm miễn phí.</value>
+    <value>Nanazip-PM là một phần mềm miễn phí.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Không thể cấp thêm dung lượng RAM yêu cầu</value>

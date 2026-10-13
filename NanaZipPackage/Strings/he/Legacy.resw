@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Hebrew</value>
@@ -268,7 +268,7 @@
     <value>…תכנים&amp;</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>…NanaZip אודות</value>
+    <value>…Nanazip-PM אודות</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>נתיב</value>
@@ -640,10 +640,10 @@
     <value>השתמש בדפי זיכרון &amp;גדולים</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip אודות</value>
+    <value>Nanazip-PM אודות</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip היא תוכנה חופשית</value>
+    <value>Nanazip-PM היא תוכנה חופשית</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>המערכת אינה יכולה להקציב את כמות הזיכרון הדרושה</value>

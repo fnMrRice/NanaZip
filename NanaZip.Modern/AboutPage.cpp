@@ -29,12 +29,12 @@ namespace winrt::NanaZip::Modern::implementation
             ::K7ModernGetLegacyStringResource(2900));
         if (WindowTitle.empty())
         {
-            WindowTitle = L"About NanaZip";
+            WindowTitle = L"About Nanazip-PM";
         }
         ::SetWindowTextW(this->m_WindowHandle, WindowTitle.c_str());
 
         std::wstring Version = std::wstring(
-            "NanaZip " MILE_PROJECT_VERSION_STRING);
+            "Nanazip-PM " MILE_PROJECT_VERSION_STRING);
         Version.append(
             L" (" MILE_PROJECT_DOT_VERSION_STRING L")");
 #if defined(_M_AMD64)
@@ -47,7 +47,7 @@ namespace winrt::NanaZip::Modern::implementation
             ::K7ModernGetLegacyStringResource(2901));
         if (Content.empty())
         {
-            Content = L"NanaZip is free software";
+            Content = L"Nanazip-PM is free software";
         }
         if (!this->m_ExtendedMessage.empty())
         {
@@ -85,7 +85,7 @@ namespace winrt::NanaZip::Modern::implementation
         SHELLEXECUTEINFOW ExecInfo = {};
         ExecInfo.cbSize = sizeof(SHELLEXECUTEINFOW);
         ExecInfo.lpVerb = L"open";
-        ExecInfo.lpFile = L"https://github.com/M2Team/NanaZip";
+        ExecInfo.lpFile = L"https://github.com/fnMrRice/NanaZip";
         ExecInfo.nShow = SW_SHOWNORMAL;
         ::ShellExecuteExW(&ExecInfo);
     }

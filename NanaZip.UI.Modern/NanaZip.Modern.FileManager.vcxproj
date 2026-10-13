@@ -10,11 +10,11 @@
     <CppWinRTGenerateWindowsMetadata>false</CppWinRTGenerateWindowsMetadata>
     <MileProjectUseProjectProperties>true</MileProjectUseProjectProperties>
     <MileProjectCompanyName>M2-Team</MileProjectCompanyName>
-    <MileProjectFileDescription>NanaZip Modern Graphical User Interface</MileProjectFileDescription>
-    <MileProjectInternalName>NanaZip.Modern.FileManager</MileProjectInternalName>
+    <MileProjectFileDescription>Nanazip-PM Modern Graphical User Interface</MileProjectFileDescription>
+    <MileProjectInternalName>Nanazip-PM.Modern.FileManager</MileProjectInternalName>
     <MileProjectLegalCopyright>© M2-Team and Contributors. All rights reserved.</MileProjectLegalCopyright>
-    <MileProjectOriginalFilename>NanaZip.Modern.FileManager.exe</MileProjectOriginalFilename>
-    <MileProjectProductName>NanaZip</MileProjectProductName>
+    <MileProjectOriginalFilename>Nanazip-PM.Modern.FileManager.exe</MileProjectOriginalFilename>
+    <MileProjectProductName>Nanazip-PM</MileProjectProductName>
   </PropertyGroup>
   <Import Project="..\NanaZip.Project\NanaZip.Project.props" />
   <Import Sdk="Mile.Project.Configurations" Project="Mile.Project.Platform.x64.props" />
@@ -25,6 +25,9 @@
   <Import Project="..\K7Base\K7Base.props" />
   <Import Project="..\K7User\K7User.props" />
   <Import Project="..\NanaZip.Modern\NanaZip.Modern.props" />
+  <PropertyGroup>
+    <TargetName>Nanazip-PM.Modern.FileManager</TargetName>
+  </PropertyGroup>
   <ItemDefinitionGroup>
     <ClCompile>
       <AdditionalOptions>%(AdditionalOptions) /Wv:18</AdditionalOptions>

@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Kyrgyz</value>
@@ -457,10 +457,10 @@
     <value>Система</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip менен файлдарды бириктирүү:</value>
+    <value>Nanazip-PM менен файлдарды бириктирүү:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZipти менюнун контексттик кыртышына жайгаштыруу</value>
+    <value>Nanazip-PMти менюнун контексттик кыртышына жайгаштыруу</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Каскадттык контексттик меню</value>
@@ -550,10 +550,10 @@
     <value>Эстин чоң барактарын колдонуу</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip программа жөнүндө</value>
+    <value>Nanazip-PM программа жөнүндө</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip эркин таратылуучу программа.Бирок сиз NanaZipтин иштетүүсүн колдогуңуз келсе,сиз программаны каттатып койсоңуз болот.</value>
+    <value>Nanazip-PM эркин таратылуучу программа.Бирок сиз Nanazip-PMтин иштетүүсүн колдогуңуз келсе,сиз программаны каттатып койсоңуз болот.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Эркин эске тутуу жетишсиз</value>

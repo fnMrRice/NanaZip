@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Portuguese Portugal</value>
@@ -268,7 +268,7 @@
     <value>&amp;Conteúdo...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Acerca do NanaZip...</value>
+    <value>Acerca do Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Localização</value>
@@ -547,13 +547,13 @@
     <value>Sistema</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Associar o NanaZip com:</value>
+    <value>Associar o Nanazip-PM com:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Todos os utilizadores</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integrar o NanaZip no menu de contexto</value>
+    <value>Integrar o Nanazip-PM no menu de contexto</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Menu de contexto em cascata</value>
@@ -646,12 +646,12 @@
     <value>Utilizar páginas de &amp;memória grandes</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Acerca do NanaZip</value>
+    <value>Acerca do Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>O NanaZip é um programa gratuito.
+    <value>O Nanazip-PM é um programa gratuito.
 
-O NanaZip foi traduzido por: Hugo Carvalho
+O Nanazip-PM foi traduzido por: Hugo Carvalho
 \thugokarvalho@hotmail.com</value>
   </data>
   <data name="Resource3000" xml:space="preserve">

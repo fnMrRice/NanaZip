@@ -167,7 +167,7 @@ namespace
 
     static UString GetNanaZipPath()
     {
-        return fs2us(NWindows::NDLL::GetModuleDirPrefix()) + L"NanaZip.Modern.FileManager.exe";
+        return fs2us(NWindows::NDLL::GetModuleDirPrefix()) + L"Nanazip-PM.Modern.FileManager.exe";
     }
 }
 
@@ -938,7 +938,7 @@ namespace NanaZip::ShellExtension
                 return E_NOTIMPL;
             }
 
-            return ::SHStrDupW(L"NanaZip Preview", ppszName);
+            return ::SHStrDupW(L"Nanazip-PM Preview", ppszName);
         }
 
         HRESULT STDMETHODCALLTYPE GetIcon(
@@ -1063,7 +1063,7 @@ namespace NanaZip::ShellExtension
 #pragma endregion
     };
 
-    struct DECLSPEC_UUID("469D94E9-6AF4-4395-B396-99B1308F8CE5")
+    struct DECLSPEC_UUID("9BA7FC21-285D-47ED-9425-3644A5954774")
         ClassFactory : public winrt::implements<
         ClassFactory, IClassFactory>
     {

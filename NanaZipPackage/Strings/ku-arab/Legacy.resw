@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Kurdish - Sorani</value>
@@ -256,7 +256,7 @@
     <value>&amp;ناوەڕۆکەکان...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>دەربارەی NanaZip...</value>
+    <value>دەربارەی Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>ڕێڕەو</value>
@@ -433,10 +433,10 @@
     <value>سیستەم</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip پەیوەست بکە بە:</value>
+    <value>Nanazip-PM پەیوەست بکە بە:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip بکە نێو لیستەی مێنیوەوە</value>
+    <value>Nanazip-PM بکە نێو لیستەی مێنیوەوە</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>مێنیو بکە بە یەک هاوپۆل</value>
@@ -523,10 +523,10 @@
     <value>پەڕەی بیرگەی &amp;گەورە بەکارببە</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip دەربارەی</value>
+    <value>Nanazip-PM دەربارەی</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip پڕۆگرامێکی خۆڕایە. لەگەڵ ئەوەشدا، ئەتوانی پاڵپشت بیت لە پەرەپێدانی NanaZip.</value>
+    <value>Nanazip-PM پڕۆگرامێکی خۆڕایە. لەگەڵ ئەوەشدا، ئەتوانی پاڵپشت بیت لە پەرەپێدانی Nanazip-PM.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>سیستەم ناتوانێت بڕی پێویست لە بیرگە دابین بکات</value>

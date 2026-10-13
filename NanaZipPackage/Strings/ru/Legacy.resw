@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Russian</value>
@@ -268,7 +268,7 @@
     <value>&amp;Оглавление...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>О NanaZip...</value>
+    <value>О Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Путь</value>
@@ -547,13 +547,13 @@
     <value>Система</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Ассоциировать NanaZip с файлами:</value>
+    <value>Ассоциировать Nanazip-PM с файлами:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Все пользователи</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Встроить NanaZip в контекстное меню оболочки</value>
+    <value>Встроить Nanazip-PM в контекстное меню оболочки</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Каскадное контекстное меню</value>
@@ -664,10 +664,10 @@
     <value>Контрольные суммы строчными символами</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>О программе NanaZip</value>
+    <value>О программе Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip является свободно распространяемой программой.</value>
+    <value>Nanazip-PM является свободно распространяемой программой.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Недостаточно свободной памяти</value>
@@ -1360,6 +1360,6 @@
     <value>Интеграция</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Открыть параметры Windows, чтобы ассоциировать файлы с NanaZip</value>
+    <value>Открыть параметры Windows, чтобы ассоциировать файлы с Nanazip-PM</value>
   </data>
 </root>

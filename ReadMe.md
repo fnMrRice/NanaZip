@@ -1,4 +1,24 @@
-﻿# ![NanaZip](Assets/NanaZip.png) NanaZip
+﻿# ![Nanazip-PM](Assets/NanaZip.png) Nanazip-PM
+
+Nanazip-PM is a customized fork of [NanaZip](https://github.com/M2Team/NanaZip).
+Its application names, executable filenames, package identities, context-menu
+registrations, and settings are separate from upstream NanaZip.
+
+- GUI command: `Nanazip-PM.exe` (packaged app execution alias).
+- Console command: `Nanazip-PM.Console.exe`.
+- Windows command: `Nanazip-PM.Windows.exe`.
+- Settings: `HKEY_CURRENT_USER\Software\Nanazip-PM`.
+- Policies: `Software\Policies\M2Team\Nanazip-PM`.
+
+Preview builds use the display name `Nanazip-PM Preview`. The original source
+project names, internal libraries, artwork, copyright notices, and upstream
+links are retained. See [the branding notes](Documents/Branding.md) for build
+and coexistence details.
+
+## Upstream NanaZip reference
+
+The badges, downloads, sponsorship information, and project description below
+refer to the original NanaZip project, not this fork.
 
 [![GitHub Actions Build Status](https://github.com/M2Team/NanaZip/actions/workflows/BuildBinaries.yml/badge.svg?branch=master&event=push)](https://github.com/M2Team/NanaZip/actions/workflows/BuildBinaries.yml?query=event%3Apush+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/github/downloads/M2Team/NanaZip/total)](https://github.com/M2Team/NanaZip/releases)

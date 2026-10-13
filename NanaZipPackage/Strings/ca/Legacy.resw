@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Catalan</value>
@@ -268,7 +268,7 @@
     <value>&amp;Contingut...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Quant al NanaZip...</value>
+    <value>Quant al Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Camí</value>
@@ -544,13 +544,13 @@
     <value>Sistema</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Associa el NanaZip amb:</value>
+    <value>Associa el Nanazip-PM amb:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Tots els usuaris</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integra el NanaZip al menú contextual del Windows</value>
+    <value>Integra el Nanazip-PM al menú contextual del Windows</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Menú contextual en cascada</value>
@@ -643,10 +643,10 @@
     <value>Utilitza pàgines de memòria &amp;grans</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Quant al NanaZip</value>
+    <value>Quant al Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>	El NanaZip és programari lliure.
+    <value>	El Nanazip-PM és programari lliure.
        Traducció realitzada per: Softcatalà
 	https://www.softcatala.org</value>
   </data>

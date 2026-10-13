@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Marathi</value>
@@ -253,7 +253,7 @@
     <value>&amp;माहिती...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip बद्दल...</value>
+    <value>Nanazip-PM बद्दल...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>मार्ग</value>
@@ -379,10 +379,10 @@
     <value>प्रणाली</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip संबधित करा:</value>
+    <value>Nanazip-PM संबधित करा:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip ला shell context मेनुशी जोडा</value>
+    <value>Nanazip-PM ला shell context मेनुशी जोडा</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Cascaded context menu</value>
@@ -469,10 +469,10 @@
     <value>मोठे स्मरणशक्ती पृष्ठ वापरा</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip बद्दल माहिती</value>
+    <value>Nanazip-PM बद्दल माहिती</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip हे मोफ़त सॉफ़्टवेअर आहे. तरिही, तुम्ही नोंद करुन याच्या प्रगतीला सहाय्य करू शकता.</value>
+    <value>Nanazip-PM हे मोफ़त सॉफ़्टवेअर आहे. तरिही, तुम्ही नोंद करुन याच्या प्रगतीला सहाय्य करू शकता.</value>
   </data>
   <data name="Resource3001" xml:space="preserve">
     <value>येथे एकही चूक नाही</value>

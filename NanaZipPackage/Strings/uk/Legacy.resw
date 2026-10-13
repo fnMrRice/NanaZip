@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Ukrainian</value>
@@ -268,7 +268,7 @@
     <value>&amp;Зміст...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Про NanaZip...</value>
+    <value>Про Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Шлях</value>
@@ -547,13 +547,13 @@
     <value>Система</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Асоціювати NanaZip з:</value>
+    <value>Асоціювати Nanazip-PM з:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Усі користувачі</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Інтегрувати NanaZip до контекстного меню оболонки</value>
+    <value>Інтегрувати Nanazip-PM до контекстного меню оболонки</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Каскадне контекстне меню</value>
@@ -664,10 +664,10 @@
     <value>Контрольні суми малими символами</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Про NanaZip</value>
+    <value>Про Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip є вільним програмним забезпеченням</value>
+    <value>Nanazip-PM є вільним програмним забезпеченням</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Система не може виділити необхідний обсяг пам'яті</value>
@@ -1360,6 +1360,6 @@
     <value>Інтеграція</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Відкрити параметри Windows, щоб асоціювати файли з NanaZip</value>
+    <value>Відкрити параметри Windows, щоб асоціювати файли з Nanazip-PM</value>
   </data>
 </root>

@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Slovenian</value>
@@ -268,7 +268,7 @@
     <value>Vse&amp;bina pomoči...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Vizitka NanaZip...</value>
+    <value>Vizitka Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Pot</value>
@@ -541,13 +541,13 @@
     <value>Sistem</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Poveži NanaZip z:</value>
+    <value>Poveži Nanazip-PM z:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Vsi uporabniki</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Vključi NanaZip v priročni meni lupine</value>
+    <value>Vključi Nanazip-PM v priročni meni lupine</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Stopničasti priročni meni</value>
@@ -643,7 +643,7 @@
     <value>Vizitka</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip je brezplačen program</value>
+    <value>Nanazip-PM je brezplačen program</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Sistem ne more dodeliti potrebne količine pomnilnika</value>

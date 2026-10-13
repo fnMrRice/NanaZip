@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Dutch</value>
@@ -268,7 +268,7 @@
     <value>&amp;Inhoud...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Over NanaZip...</value>
+    <value>Over Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Pad</value>
@@ -550,13 +550,13 @@
     <value>Systeem</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip associëren met:</value>
+    <value>Nanazip-PM associëren met:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Alle gebruikers</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>NanaZip integreren in het contextmenu</value>
+    <value>Nanazip-PM integreren in het contextmenu</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Trapsgewijs contextmenu</value>
@@ -667,10 +667,10 @@
     <value>Hashes in kleine letters</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Over NanaZip</value>
+    <value>Over Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip is gratis software</value>
+    <value>Nanazip-PM is gratis software</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Het systeem kan de benodigde hoeveelheid geheugen niet toewijzen</value>
@@ -1366,7 +1366,7 @@ Weet u zeker dat u het archief zo wilt opsplitsen?</value>
     <value>Integratie</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Open Windows Instellingen om bestanden te associëren met NanaZip</value>
+    <value>Open Windows Instellingen om bestanden te associëren met Nanazip-PM</value>
   </data>
 
 </root>

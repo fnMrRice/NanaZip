@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Latvian</value>
@@ -250,7 +250,7 @@
     <value>&amp;Rokasgrāmatas saturs...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Par NanaZip...</value>
+    <value>Par Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Ceļš</value>
@@ -373,10 +373,10 @@
     <value>Sistēma</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Piesaistīt NanaZip pie:</value>
+    <value>Piesaistīt Nanazip-PM pie:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>&amp;Integrēt NanaZip Windows vides kontekstizvēlē</value>
+    <value>&amp;Integrēt Nanazip-PM Windows vides kontekstizvēlē</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>&amp;Kaskādveida kontekstizvēle</value>
@@ -457,10 +457,10 @@
     <value>Parādīt at&amp;dalošās līnijas</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Par NanaZip</value>
+    <value>Par Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip ir bezmaksas programma, tomēr, reģistrējoties jūs varat NanaZip izstrādāšanu atbalstīt.</value>
+    <value>Nanazip-PM ir bezmaksas programma, tomēr, reģistrējoties jūs varat Nanazip-PM izstrādāšanu atbalstīt.</value>
   </data>
   <data name="Resource3001" xml:space="preserve">
     <value>Kļūdu nav.</value>

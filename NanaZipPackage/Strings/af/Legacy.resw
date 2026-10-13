@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Afrikaans</value>
@@ -250,7 +250,7 @@
     <value>&amp;Inhoud...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Aangaande NanaZip...</value>
+    <value>Aangaande Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Pad</value>
@@ -373,10 +373,10 @@
     <value>Stelsel</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Assosieer NanaZip met:</value>
+    <value>Assosieer Nanazip-PM met:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integreer NanaZip in kontekskeuselys.</value>
+    <value>Integreer Nanazip-PM in kontekskeuselys.</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Trapsgewyse kontekskeuselys</value>
@@ -457,10 +457,10 @@
     <value>Wys &amp;roosterlyne</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Aangaande NanaZip</value>
+    <value>Aangaande Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip is gratis programmatuur. Indien u egter so baie van NanaZip hou dat u die verdere ontwikkeling wil ondersteun, registreer dan asb. met 'n geldelike donasie aan die NanaZip Projek.</value>
+    <value>Nanazip-PM is gratis programmatuur. Indien u egter so baie van Nanazip-PM hou dat u die verdere ontwikkeling wil ondersteun, registreer dan asb. met 'n geldelike donasie aan die Nanazip-PM Projek.</value>
   </data>
   <data name="Resource3001" xml:space="preserve">
     <value>Daar is geen foute nie</value>

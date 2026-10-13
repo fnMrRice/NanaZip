@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Lithuanian</value>
@@ -268,7 +268,7 @@
     <value>&amp;Turinys...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>Apie NanaZip...</value>
+    <value>Apie Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Kelias</value>
@@ -541,13 +541,13 @@
     <value>Sistema</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>Susieti NanaZip su:</value>
+    <value>Susieti Nanazip-PM su:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Visi vartotojai</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Integruoti NanaZip į kontekstinį meniu</value>
+    <value>Integruoti Nanazip-PM į kontekstinį meniu</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Pakopinis kontekstinis meniu</value>
@@ -640,10 +640,10 @@
     <value>Naudoti didžiu&amp;lius atmintinės puslapius</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>Apie NanaZip</value>
+    <value>Apie Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip yra nemokama programa.</value>
+    <value>Nanazip-PM yra nemokama programa.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Sistema begali skirti reikalingo atminties kiekio</value>

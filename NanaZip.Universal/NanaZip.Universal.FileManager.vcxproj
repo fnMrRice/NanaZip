@@ -8,11 +8,11 @@
     <MileProjectManifestFile>NanaZip.Universal.Windows.manifest</MileProjectManifestFile>
     <MileProjectUseProjectProperties>true</MileProjectUseProjectProperties>
     <MileProjectCompanyName>M2-Team</MileProjectCompanyName>
-    <MileProjectFileDescription>NanaZip Graphical User Interface (Windows)</MileProjectFileDescription>
-    <MileProjectInternalName>NanaZip.Universal.FileManager</MileProjectInternalName>
+    <MileProjectFileDescription>Nanazip-PM Graphical User Interface (Windows)</MileProjectFileDescription>
+    <MileProjectInternalName>Nanazip-PM.FileManager</MileProjectInternalName>
     <MileProjectLegalCopyright>© M2-Team and Contributors. All rights reserved.</MileProjectLegalCopyright>
-    <MileProjectOriginalFilename>NanaZip.Universal.FileManager.exe</MileProjectOriginalFilename>
-    <MileProjectProductName>NanaZip</MileProjectProductName>
+    <MileProjectOriginalFilename>Nanazip-PM.FileManager.exe</MileProjectOriginalFilename>
+    <MileProjectProductName>Nanazip-PM</MileProjectProductName>
     <MileWindowsHelpersNoCppWinRTHelpers>true</MileWindowsHelpersNoCppWinRTHelpers>
   </PropertyGroup>
   <Import Project="..\NanaZip.Project\NanaZip.Project.props" />
@@ -25,6 +25,9 @@
   <Import Project="..\K7Base\K7Base.props" />
   <Import Project="..\K7User\K7User.props" />
   <Import Project="..\NanaZip.Modern\NanaZip.Modern.props" />
+  <PropertyGroup>
+    <TargetName>Nanazip-PM.FileManager</TargetName>
+  </PropertyGroup>
   <ItemDefinitionGroup>
     <ClCompile>
       <AdditionalOptions>%(AdditionalOptions) /Wv:18</AdditionalOptions>

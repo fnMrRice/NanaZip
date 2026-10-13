@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Thai</value>
@@ -259,7 +259,7 @@
     <value>&amp;เนื้อหาและดัชนี...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>เกี่ยวกับ NanaZip...</value>
+    <value>เกี่ยวกับ Nanazip-PM...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>ที่ตั้ง</value>
@@ -457,13 +457,13 @@
     <value>ระบบ</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>ทำให้ NanaZip ทำงานร่วมกับ:</value>
+    <value>ทำให้ Nanazip-PM ทำงานร่วมกับ:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>รวบรวมคำสั่ง NanaZip ไปที่แถบเมนูลัด</value>
+    <value>รวบรวมคำสั่ง Nanazip-PM ไปที่แถบเมนูลัด</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
-    <value>แยกเป็นแถบคำสั่ง NanaZip</value>
+    <value>แยกเป็นแถบคำสั่ง Nanazip-PM</value>
   </data>
   <data name="Resource2303" xml:space="preserve">
     <value>วัตถุที่ปรากฏบนเมนูลัด:</value>
@@ -550,10 +550,10 @@
     <value>ใช้ &amp;เพจความจำขนาดใหญ่</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>เกี่ยวกับ NanaZip</value>
+    <value>เกี่ยวกับ Nanazip-PM</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip เป็นฟรีแวร์  อย่างไรก็ตาม  คุณสามารถสนับสนุนการพัฒนาของ NanaZip ได้โดยการลงทะเบียน  เมื่อคุณเป็นผู้ใช้ที่ลงทะเบียนแล้ว  คุณจะได้รับการสนับสนุนทางเทคนิคจากเรา</value>
+    <value>Nanazip-PM เป็นฟรีแวร์  อย่างไรก็ตาม  คุณสามารถสนับสนุนการพัฒนาของ Nanazip-PM ได้โดยการลงทะเบียน  เมื่อคุณเป็นผู้ใช้ที่ลงทะเบียนแล้ว  คุณจะได้รับการสนับสนุนทางเทคนิคจากเรา</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>ระบบไม่สามารถใช้หน่วยความจำตามที่ระบุได้</value>

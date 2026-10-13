@@ -7,11 +7,11 @@
     <MileProjectManifestFile>NanaZip.Core.Sfx.Windows.manifest</MileProjectManifestFile>
     <MileProjectUseProjectProperties>true</MileProjectUseProjectProperties>
     <MileProjectCompanyName>M2-Team</MileProjectCompanyName>
-    <MileProjectFileDescription>NanaZip Self Extracting Executable (Windows)</MileProjectFileDescription>
+    <MileProjectFileDescription>Nanazip-PM Self Extracting Executable (Windows)</MileProjectFileDescription>
     <MileProjectInternalName>NanaZip.Core.Sfx.Windows</MileProjectInternalName>
     <MileProjectLegalCopyright>© M2-Team and Contributors. All rights reserved.</MileProjectLegalCopyright>
     <MileProjectOriginalFilename>NanaZip.Core.Windows.sfx</MileProjectOriginalFilename>
-    <MileProjectProductName>NanaZip</MileProjectProductName>
+    <MileProjectProductName>Nanazip-PM</MileProjectProductName>
     <MileWindowsHelpersNoCppWinRTHelpers>true</MileWindowsHelpersNoCppWinRTHelpers>
   </PropertyGroup>
   <Import Project="..\NanaZip.Project\NanaZip.Project.props" />

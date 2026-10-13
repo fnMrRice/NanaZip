@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Turkish</value>
@@ -118,7 +118,7 @@
     <value>&amp;Aç</value>
   </data>
   <data name="Resource541" xml:space="preserve">
-    <value>NanaZip İçi&amp;nde Aç</value>
+    <value>Nanazip-PM İçi&amp;nde Aç</value>
   </data>
   <data name="Resource542" xml:space="preserve">
     <value>&amp;Varsayılan Uygulamada Aç</value>
@@ -175,10 +175,10 @@
     <value>Akış&amp;ları Değiştir</value>
   </data>
   <data name="Resource590" xml:space="preserve">
-    <value>NanaZip İçinde Aç *</value>
+    <value>Nanazip-PM İçinde Aç *</value>
   </data>
   <data name="Resource591" xml:space="preserve">
-    <value>NanaZip İçinde Aç #</value>
+    <value>Nanazip-PM İçinde Aç #</value>
   </data>
   <data name="Resource600" xml:space="preserve">
     <value>Tümünü &amp;Seç</value>
@@ -268,7 +268,7 @@
     <value>&amp;Kullanım Kılavuzu...</value>
   </data>
   <data name="Resource961" xml:space="preserve">
-    <value>NanaZip Hakkında...</value>
+    <value>Nanazip-PM Hakkında...</value>
   </data>
   <data name="Resource1003" xml:space="preserve">
     <value>Yol</value>
@@ -541,13 +541,13 @@
     <value>Sistem</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip ile açılacak dosya türleri:</value>
+    <value>Nanazip-PM ile açılacak dosya türleri:</value>
   </data>
   <data name="Resource2202" xml:space="preserve">
     <value>Tüm kullanıcılar</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Sağ Tık Menüsünde NanaZip Görüntülensin</value>
+    <value>Sağ Tık Menüsünde Nanazip-PM Görüntülensin</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Sağ Tık Menüsü Gruplansın</value>
@@ -640,10 +640,10 @@
     <value>Büyük Be&amp;llek Sayfaları Kullanılsın</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip Hakkında</value>
+    <value>Nanazip-PM Hakkında</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip özgür ve ücretsiz bir uygulamadır.</value>
+    <value>Nanazip-PM özgür ve ücretsiz bir uygulamadır.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Sistem istenilen miktardaki belleği ayıramıyor</value>
@@ -1300,6 +1300,6 @@ Arşiv dosyasını parçalara bölmek istediğinize emin misiniz?</value>
     <value>İntegrasyon</value>
   </data>
   <data name="Resource12201" xml:space="preserve">
-    <value>Dosyaları NanaZip ile ilişkilendirmek için Windows Ayarlar'ı aç</value>
+    <value>Dosyaları Nanazip-PM ile ilişkilendirmek için Windows Ayarlar'ı aç</value>
   </data>
 </root>

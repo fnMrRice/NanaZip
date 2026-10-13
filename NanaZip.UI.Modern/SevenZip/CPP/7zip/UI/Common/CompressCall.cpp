@@ -33,7 +33,7 @@ using namespace NWindows;
 #define MY_TRY_FINISH_VOID } \
   catch(...) { ErrorMessageHRESULT(E_FAIL); }
 
-#define k7zGui  "NanaZip.Universal.Windows.exe"
+#define k7zGui  "Nanazip-PM.Windows.exe"
 
 // 21.07 : we can disable wildcard
 // #define ISWITCH_NO_WILDCARD_POSTFIX "w-"
@@ -60,7 +60,7 @@ UString GetQuotedString(const UString &s)
 
 static void ErrorMessage(LPCWSTR message)
 {
-  MessageBoxW(g_HWND, message, L"NanaZip", MB_ICONERROR | MB_OK);
+  MessageBoxW(g_HWND, message, L"Nanazip-PM", MB_ICONERROR | MB_OK);
 }
 
 static void ErrorMessageHRESULT(HRESULT res, LPCWSTR s = NULL)

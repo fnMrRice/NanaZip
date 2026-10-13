@@ -1,19 +1,19 @@
-﻿# Channel Switch Note for NanaZip development
+﻿# Channel Switch Note for Nanazip-PM development
 
 P.S. Only for Kenji Mouri
 
 ## Preview
 
-- DisplayName="NanaZip Preview"
-- Name="40174MouriNaruto.NanaZipPreview"
-- <DisplayName>NanaZip Preview</DisplayName>
-- 469D94E9-6AF4-4395-B396-99B1308F8CE5
-- return ::SHStrDupW(L"NanaZip Preview", ppszName);
+- DisplayName="Nanazip-PM Preview"
+- Name="Nanazip-PM.Preview"
+- <DisplayName>Nanazip-PM Preview</DisplayName>
+- 9BA7FC21-285D-47ED-9425-3644A5954774
+- return ::SHStrDupW(L"Nanazip-PM Preview", ppszName);
 
 ## Stable
 
-- DisplayName="NanaZip"
-- Name="40174MouriNaruto.NanaZip"
-- <DisplayName>NanaZip</DisplayName>
-- CAE3F1D4-7765-4D98-A060-52CD14D56EAB
-- return ::SHStrDupW(L"NanaZip", ppszName);
+- DisplayName="Nanazip-PM"
+- Name="Nanazip-PM.Stable"
+- <DisplayName>Nanazip-PM</DisplayName>
+- B53C7912-02D2-441C-89A1-67923B6A8A04
+- return ::SHStrDupW(L"Nanazip-PM", ppszName);

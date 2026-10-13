@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Kazakh</value>
@@ -457,10 +457,10 @@
     <value>Жүйе</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip файлмен ассорциялау:</value>
+    <value>Nanazip-PM файлмен ассорциялау:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Мұқабаның мәтінміндің мәзіріне NanaZip қою</value>
+    <value>Мұқабаның мәтінміндің мәзіріне Nanazip-PM қою</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Каскадты мәтінмәндік мәзір</value>
@@ -550,10 +550,10 @@
     <value>Жадтың үлкен беттерін пайдалану</value>
   </data>
   <data name="Resource2900" xml:space="preserve">
-    <value>NanaZip туралы</value>
+    <value>Nanazip-PM туралы</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip - тегін таратылатын бағдарлама.</value>
+    <value>Nanazip-PM - тегін таратылатын бағдарлама.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Бос жад жоқ</value>

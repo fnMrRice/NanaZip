@@ -1102,7 +1102,7 @@ void CCompressDialog::OnOK()
       if (IDOK != ::MessageBoxW(
           *this,
           ::LangString(IDS_PASSWORD_USE_ASCII),
-          L"NanaZip",
+          L"Nanazip-PM",
           MB_OKCANCEL | MB_ICONWARNING))
       {
         return;
@@ -1268,7 +1268,7 @@ void CCompressDialog::OnOK()
         if (::MessageBoxW(*this, MyFormatNew(IDS_SPLIT_CONFIRM, s),
             // **************** NanaZip Modification Start ****************
             //L"7-Zip", MB_YESNOCANCEL | MB_ICONQUESTION) != IDYES)
-            L"NanaZip", MB_YESNOCANCEL | MB_ICONQUESTION) != IDYES)
+            L"Nanazip-PM", MB_YESNOCANCEL | MB_ICONQUESTION) != IDYES)
             // **************** NanaZip Modification End ****************
           return;
       }

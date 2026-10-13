@@ -100,7 +100,7 @@ static CFSTR const kMainDll =
 
 #ifdef _WIN32
 
-static LPCTSTR const kRegistryPath = TEXT("Software") TEXT(STRING_PATH_SEPARATOR) TEXT("NanaZip");
+static LPCTSTR const kRegistryPath = TEXT("Software") TEXT(STRING_PATH_SEPARATOR) TEXT("Nanazip-PM");
 static LPCWSTR const kProgramPathValue = L"Path";
 static LPCWSTR const kProgramPath2Value = L"Path"
   #ifdef _WIN64
@@ -698,7 +698,7 @@ HRESULT CCodecs::LoadDll(const FString &dllPath, bool needCheckDll, bool *loaded
     {
       CCodecError &error = Errors.AddNew();
       error.Path = dllPath;
-      error.Message = "no NanaZip code";
+      error.Message = "no Nanazip-PM code";
     }
     */
   }

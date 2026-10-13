@@ -40,7 +40,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Resource0" xml:space="preserve">
-    <value>NanaZip</value>
+    <value>Nanazip-PM</value>
   </data>
   <data name="Resource1" xml:space="preserve">
     <value>Serbian - Cyrillic</value>
@@ -118,7 +118,7 @@
     <value>Погледај</value>
   </data>
   <data name="Resource541" xml:space="preserve">
-    <value>Отвори са NanaZip-ом</value>
+    <value>Отвори са Nanazip-PM-ом</value>
   </data>
   <data name="Resource542" xml:space="preserve">
     <value>Отвори са придруженом програмом</value>
@@ -457,10 +457,10 @@
     <value>Систем</value>
   </data>
   <data name="Resource2201" xml:space="preserve">
-    <value>NanaZip отвара следеће типове датотека:</value>
+    <value>Nanazip-PM отвара следеће типове датотека:</value>
   </data>
   <data name="Resource2301" xml:space="preserve">
-    <value>Убаци NanaZip у системски мени</value>
+    <value>Убаци Nanazip-PM у системски мени</value>
   </data>
   <data name="Resource2302" xml:space="preserve">
     <value>Каскадни системски мени</value>
@@ -553,7 +553,7 @@
     <value>О програму</value>
   </data>
   <data name="Resource2901" xml:space="preserve">
-    <value>NanaZip је бесплатан програм.</value>
+    <value>Nanazip-PM је бесплатан програм.</value>
   </data>
   <data name="Resource3000" xml:space="preserve">
     <value>Систем не може да издвоји потребну количину меморије</value>

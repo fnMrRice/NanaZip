@@ -6,7 +6,7 @@
     revision="1.0"
     schemaVersion="1.0">
     <policyNamespaces>
-        <target prefix="NanaZip" namespace="NanaZip.Policies" />
+        <target prefix="NanaZip" namespace="Nanazip-PM.Policies" />
     </policyNamespaces>
     <resources minRequiredRevision="1.0" />
 
@@ -58,7 +58,7 @@
             class="Machine"
             displayName="$(string.AllowDynamicCodeGeneration)"
             explainText="$(string.AllowDynamicCodeGenerationExplain)"
-            key="SOFTWARE\Policies\M2Team\NanaZip"
+            key="SOFTWARE\Policies\M2Team\Nanazip-PM"
             valueName="AllowDynamicCodeGeneration">
             <parentCategory ref="NanaZipPolicies" />
             <supportedOn ref="SUPPORTED_NanaZip60P2" />
@@ -74,7 +74,7 @@
             class="Machine"
             displayName="$(string.AllowChildProcessCreation)"
             explainText="$(string.AllowChildProcessCreationExplain)"
-            key="SOFTWARE\Policies\M2Team\NanaZip"
+            key="SOFTWARE\Policies\M2Team\Nanazip-PM"
             valueName="AllowChildProcessCreation">
             <parentCategory ref="NanaZipPolicies" />
             <supportedOn ref="SUPPORTED_NanaZip60P2" />
@@ -91,7 +91,7 @@
             displayName="$(string.WriteZoneIdExtract)"
             explainText="$(string.WriteZoneIdExtractExplain)"
             presentation="$(presentation.WriteZoneIdExtract)"
-            key="SOFTWARE\Policies\M2Team\NanaZip">
+            key="SOFTWARE\Policies\M2Team\Nanazip-PM">
             <parentCategory ref="NanaZipPolicies" />
             <supportedOn ref="SUPPORTED_NanaZip60P2" />
             <elements>
@@ -122,7 +122,7 @@
             displayName="$(string.AllowedHandlers)"
             explainText="$(string.AllowedHandlersExplain)"
             presentation="$(presentation.AllowedHandlers)"
-            key="SOFTWARE\Policies\M2Team\NanaZip">
+            key="SOFTWARE\Policies\M2Team\Nanazip-PM">
             <parentCategory ref="HandlerCodecRestrictions" />
             <supportedOn ref="SUPPORTED_NanaZip60P2" />
             <elements>
@@ -135,7 +135,7 @@
             displayName="$(string.BlockedHandlers)"
             explainText="$(string.BlockedHandlersExplain)"
             presentation="$(presentation.BlockedHandlers)"
-            key="SOFTWARE\Policies\M2Team\NanaZip">
+            key="SOFTWARE\Policies\M2Team\Nanazip-PM">
             <parentCategory ref="HandlerCodecRestrictions" />
             <supportedOn ref="SUPPORTED_NanaZip60P2" />
             <elements>
@@ -148,7 +148,7 @@
             displayName="$(string.AllowedCodecs)"
             explainText="$(string.AllowedCodecsExplain)"
             presentation="$(presentation.AllowedCodecs)"
-            key="SOFTWARE\Policies\M2Team\NanaZip">
+            key="SOFTWARE\Policies\M2Team\Nanazip-PM">
             <parentCategory ref="HandlerCodecRestrictions" />
             <supportedOn ref="SUPPORTED_NanaZip60P2" />
             <elements>
@@ -161,7 +161,7 @@
             displayName="$(string.BlockedCodecs)"
             explainText="$(string.BlockedCodecsExplain)"
             presentation="$(presentation.BlockedCodecs)"
-            key="SOFTWARE\Policies\M2Team\NanaZip">
+            key="SOFTWARE\Policies\M2Team\Nanazip-PM">
             <parentCategory ref="HandlerCodecRestrictions" />
             <supportedOn ref="SUPPORTED_NanaZip60P2" />
             <elements>
